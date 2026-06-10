@@ -1,0 +1,11 @@
+student_id,supervisor_id,institution,area,sent_at,outcome
+ST106419,A5031856973,Stanford University,Autonomous Robotics,2026-07-12,ADMIT
+ST106419,A5055000569,Massachusetts Institute of Technology,Deep Reinforcement Learning,2026-07-12,INTERVIEW
+ST106419,A5089892421,Ohio State University,Computer Vision,2026-07-12,NO_REPLY
+ST106419,A5011111111,University of Toronto,Deep Reinforcement Learning,2026-07-13,POSITIVE_REPLY
+ST106419,A5022222222,University of Waterloo,Computer Vision in Healthcare,2026-07-13,WRONG_PERSON
+ST106419,A5033333333,University of British Columbia,Autonomous Robotics,2026-07-14,NOT_RECRUITING
+ST106419,A5044444444,McGill University,Deep Reinforcement Learning,2026-07-14,BOUNCE
+ST106419,A5055555555,University of California Berkeley,Autonomous Robotics,2026-07-15,INTERVIEW
+ST106419,A5066666666,Stanford University,Deep Reinforcement Learning,2026-07-15,POSITIVE_REPLY
+ST106419,A5077777777,Ohio State University,Autonomous Robotics,2026-07-16,REJECT

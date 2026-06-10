@@ -1,0 +1,1769 @@
+{
+  "student_id": "ST106419",
+  "academic_tier": "elite",
+  "target_countries": [
+    "US",
+    "CA"
+  ],
+  "total_recommendations": 83,
+  "recommendations": [
+    {
+      "name": "Daniela Rus",
+      "institution": "Massachusetts Institute of Technology",
+      "country": "US",
+      "contact_email": "daniela.rus@mit.edu",
+      "contact_email_status": "estimated_by_institution_domain",
+      "profile_url": "https://openalex.org/A5066830185",
+      "orcid": "Not available",
+      "research_focus": "PPO autonomous drone navigation",
+      "evidence": [
+        {
+          "title": "Interpretable Autonomous Flight Via Compact Visualizable Neural Circuit Policies",
+          "year": 2022,
+          "link": "https://doi.org/10.1109/lra.2022.3146555"
+        }
+      ],
+      "why_match": "Your 2022 paper on interpretable autonomous flight using neural circuit policies aligns directly with my IIT Madras thesis on self-supervised representation learning for drone navigation. My IROS publication on sample-efficient policy gradients for quadrotor control demonstrates complementary expertise in developing efficient learning frameworks for autonomous systems.",
+      "tier": "reach",
+      "tier_rationale": "Professor Rus has an exceptionally high h-index of 122 at MIT, a top-tier institution, making this a reach match even for an elite-tier student from IIT Madras.",
+      "linked_phd_program_url": "https://www.google.com/search?q=Massachusetts+Institute+of+Technology+PPO+autonomous+drone+navigation+PhD+program+positions"
+    },
+    {
+      "name": "Davide Scaramuzza",
+      "institution": "Robotics Research (United States)",
+      "country": "US",
+      "contact_email": "davide.scaramuzza@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5057116316",
+      "orcid": "Not available",
+      "research_focus": "PPO autonomous drone navigation",
+      "evidence": [
+        {
+          "title": "A Benchmark Comparison of Learned Control Policies for Agile Quadrotor Flight",
+          "year": 2022,
+          "link": "https://doi.org/10.1109/icra46639.2022.9811564"
+        },
+        {
+          "title": "Demonstrating Agile Flight from Pixels without State Estimation",
+          "year": 2024,
+          "link": "https://doi.org/10.15607/rss.2024.xx.082"
+        }
+      ],
+      "why_match": "My thesis on self-supervised representation learning for autonomous drone navigation directly aligns with your 2024 publication 'Demonstrating Agile Flight from Pixels without State Estimation', particularly in vision-based control without explicit state estimation. My IROS 2024 publication on sample-efficient policy gradients for quadrotor control complements your benchmark work on learned control policies for agile flight, demonstrating shared focus on efficient reinforcement learning for drone autonomy.",
+      "tier": "reach",
+      "tier_rationale": "Student from elite institution (IIT Madras) with strong publication record, but PI has exceptional h-index of 100 and leads world-leading robotics research group, making this highly competitive even for top-tier students.",
+      "linked_phd_program_url": "https://www.google.com/search?q=Robotics+Research+(United+States)+PPO+autonomous+drone+navigation+PhD+program+positions"
+    },
+    {
+      "name": "Percy Liang",
+      "institution": "Stanford University",
+      "country": "US",
+      "contact_email": "percy.liang@stanford.edu",
+      "contact_email_status": "estimated_by_institution_domain",
+      "profile_url": "https://openalex.org/A5025255782",
+      "orcid": "Not available",
+      "research_focus": "self-supervised representation learning robotics",
+      "evidence": [
+        {
+          "title": "Language-Driven Representation Learning for Robotics",
+          "year": 2023,
+          "link": "https://doi.org/10.15607/rss.2023.xix.032"
+        }
+      ],
+      "why_match": "Your 2023 publication 'Language-Driven Representation Learning for Robotics' directly aligns with my thesis on self-supervised representation learning for autonomous drone navigation, where I developed sample-efficient policy gradient methods for quadrotor control. My expertise in PyTorch, reinforcement learning, and computer vision would enable me to contribute to your research on bridging language and robotic representation learning.",
+      "tier": "reach",
+      "tier_rationale": "Percy Liang has an h-index of 87 at Stanford University, which is a top-tier institution, making this a reach match even for an elite student from IIT Madras.",
+      "linked_phd_program_url": "https://www.google.com/search?q=Stanford+University+self-supervised+representation+learning+robotics+PhD+program+positions"
+    },
+    {
+      "name": "Daniel J. Inman",
+      "institution": "University of Michigan",
+      "country": "US",
+      "contact_email": "daniel.inman@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5007305559",
+      "orcid": "Not available",
+      "research_focus": "PPO autonomous drone navigation",
+      "evidence": [
+        {
+          "title": "Autonomous Learning in a Pseudo-Episodic Physical Environment",
+          "year": 2022,
+          "link": "https://doi.org/10.1007/s10846-022-01577-5"
+        }
+      ],
+      "why_match": "Your 2022 publication 'Autonomous Learning in a Pseudo-Episodic Physical Environment' directly aligns with my IIT Madras thesis on self-supervised representation learning for autonomous drone navigation, particularly in developing sample-efficient learning methods for physical systems. My IROS 2024 publication on sample-efficient policy gradients for quadrotor control demonstrates practical experience with the reinforcement learning approaches central to your research in autonomous physical learning.",
+      "tier": "reach",
+      "tier_rationale": "Professor Inman has an exceptionally high h-index of 92 at the University of Michigan (a top-tier institution), while the student, though from elite IIT Madras, is applying from an undergraduate program to a world-renowned PhD program with a superstar supervisor.",
+      "linked_phd_program_url": "https://www.google.com/search?q=University+of+Michigan+PPO+autonomous+drone+navigation+PhD+program+positions"
+    },
+    {
+      "name": "Gaurav S. Sukhatme",
+      "institution": "University of Southern California",
+      "country": "US",
+      "contact_email": "gaurav.sukhatme@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5077367921",
+      "orcid": "Not available",
+      "research_focus": "deep reinforcement learning quadrotor control",
+      "evidence": [
+        {
+          "title": "Collision Avoidance and Navigation for a Quadrotor Swarm Using End-to-end Deep Reinforcement Learning",
+          "year": 2024,
+          "link": "https://doi.org/10.1109/icra57147.2024.10611499"
+        }
+      ],
+      "why_match": "Your 2024 paper on end-to-end deep reinforcement learning for quadrotor swarm navigation directly aligns with my IROS 2024 publication on sample-efficient policy gradient methods for quadrotor control. My thesis work in self-supervised representation learning for autonomous drones would complement your lab's focus on developing robust learning-based navigation systems for multi-robot systems.",
+      "tier": "reach",
+      "tier_rationale": "Student from elite institution (IIT Madras) with strong publication record, but PI has exceptionally high h-index (80) at top-tier research university (USC), making this a highly competitive match despite student's strong credentials.",
+      "linked_phd_program_url": "https://www.google.com/search?q=University+of+Southern+California+deep+reinforcement+learning+quadrotor+control+PhD+program+positions"
+    },
+    {
+      "name": "Peter Stone",
+      "institution": "The University of Texas at Austin",
+      "country": "US",
+      "contact_email": "peter.stone@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5001594330",
+      "orcid": "Not available",
+      "research_focus": "PPO autonomous drone navigation",
+      "evidence": [
+        {
+          "title": "Conflict Avoidance in Social Navigation\u2014a Survey",
+          "year": 2024,
+          "link": "https://doi.org/10.1145/3647983"
+        }
+      ],
+      "why_match": "My thesis on self-supervised representation learning for autonomous drone navigation directly aligns with your 2024 survey on conflict avoidance in social navigation, particularly in developing robust navigation policies. My IROS publication on sample-efficient policy gradient methods for quadrotor control demonstrates practical experience with reinforcement learning approaches relevant to your multi-agent navigation research.",
+      "tier": "reach",
+      "tier_rationale": "Professor Stone has an exceptionally high h-index of 79 at a top-tier institution (UT Austin), making this a reach opportunity even for an elite-tier student from IIT Madras.",
+      "linked_phd_program_url": "https://www.google.com/search?q=The+University+of+Texas+at+Austin+PPO+autonomous+drone+navigation+PhD+program+positions"
+    },
+    {
+      "name": "Xianke Lin",
+      "institution": "Ontario Tech University",
+      "country": "CA",
+      "contact_email": "xianke.lin@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5077446544",
+      "orcid": "Not available",
+      "research_focus": "PPO autonomous drone navigation",
+      "evidence": [
+        {
+          "title": "A Review of Deep Reinforcement Learning Algorithms for Mobile Robot Path Planning",
+          "year": 2023,
+          "link": "https://doi.org/10.3390/vehicles5040078"
+        }
+      ],
+      "why_match": "Your 2023 review on deep reinforcement learning for mobile robot path planning directly aligns with my IROS 2024 publication on sample-efficient policy gradients for quadrotor control. My thesis on self-supervised representation learning for autonomous drone navigation would extend your work by addressing perception challenges in reinforcement learning frameworks for robotic systems.",
+      "tier": "reach",
+      "tier_rationale": "While the student has an elite academic background from IIT Madras with strong publications, Professor Lin's h-index of 55 at Ontario Tech University represents an exceptionally high research output relative to typical target ranges, making this a reach despite the institution not being top-tier.",
+      "linked_phd_program_url": "https://www.google.com/search?q=Ontario+Tech+University+PPO+autonomous+drone+navigation+PhD+program+positions"
+    },
+    {
+      "name": "Chelsea Finn",
+      "institution": "Stanford University",
+      "country": "US",
+      "contact_email": "chelsea.finn@stanford.edu",
+      "contact_email_status": "estimated_by_institution_domain",
+      "profile_url": "https://openalex.org/A5005431772",
+      "orcid": "Not available",
+      "research_focus": "self-supervised representation learning robotics",
+      "evidence": [
+        {
+          "title": "Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware",
+          "year": 2023,
+          "link": "https://doi.org/10.15607/rss.2023.xix.016"
+        }
+      ],
+      "why_match": "My thesis on self-supervised representation learning for autonomous drone navigation directly aligns with your work on sample-efficient learning for robotic control systems, particularly demonstrated in your 2023 publication on fine-grained bimanual manipulation with low-cost hardware. My IROS 2024 publication on sample-efficient policy gradient methods for quadrotor control demonstrates complementary expertise in developing practical reinforcement learning solutions for real-world robotics applications.",
+      "tier": "reach",
+      "tier_rationale": "Student from elite institution (IIT Madras) with strong publication record, but PI has exceptionally high h-index (65) and is at top-tier Stanford University, making this a highly competitive match despite the student's strong qualifications.",
+      "linked_phd_program_url": "https://www.google.com/search?q=Stanford+University+self-supervised+representation+learning+robotics+PhD+program+positions"
+    },
+    {
+      "name": "Junmin Wang",
+      "institution": "Walker (United States)",
+      "country": "US",
+      "contact_email": "junmin.wang@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5100608812",
+      "orcid": "Not available",
+      "research_focus": "autonomous vehicle control systems",
+      "evidence": [
+        {
+          "title": "Robust Adaptive Path-Tracking Control of Autonomous Ground Vehicles With Considerations of Steering System Backlash",
+          "year": 2022,
+          "link": "https://doi.org/10.1109/tiv.2022.3146085"
+        }
+      ],
+      "why_match": "Your 2022 paper on robust adaptive path-tracking control for autonomous ground vehicles aligns directly with my thesis work on self-supervised representation learning for autonomous navigation, particularly in handling system uncertainties. My IROS 2024 publication on sample-efficient policy gradient methods for quadrotor control demonstrates complementary expertise in reinforcement learning for autonomous systems that could extend your work to aerial platforms.",
+      "tier": "reach",
+      "tier_rationale": "Student from elite institution (IIT Madras) with strong profile, but PI has exceptionally high h-index (71) at top US institution, making this a highly competitive match despite student's qualifications.",
+      "linked_phd_program_url": "https://www.google.com/search?q=Walker+(United+States)+autonomous+vehicle+control+systems+PhD+program+positions"
+    },
+    {
+      "name": "Angela P. Schoellig",
+      "institution": "University of Toronto",
+      "country": "CA",
+      "contact_email": "angela.schoellig@utoronto.ca",
+      "contact_email_status": "estimated_by_institution_domain",
+      "profile_url": "https://openalex.org/A5052147335",
+      "orcid": "Not available",
+      "research_focus": "reinforcement learning robot vision",
+      "evidence": [
+        {
+          "title": "Safe Learning in Robotics: From Learning-Based Control to Safe Reinforcement Learning",
+          "year": 2022,
+          "link": "https://doi.org/10.1146/annurev-control-042920-020211"
+        }
+      ],
+      "why_match": "Your 2022 publication 'Safe Learning in Robotics' directly aligns with my IROS 2024 work on sample-efficient policy gradients for quadrotor control, where I developed self-supervised representation learning methods for drone navigation. My expertise in PyTorch, reinforcement learning, and ROS would allow me to immediately contribute to your research on bridging learning-based control with safe reinforcement learning frameworks.",
+      "tier": "reach",
+      "tier_rationale": "The student has an elite academic background from IIT Madras with strong publications, but Professor Schoellig's h-index of 38 at University of Toronto (a top-tier global institution) places her significantly above even elite student profiles, making this a highly competitive match.",
+      "linked_phd_program_url": "https://www.google.com/search?q=University+of+Toronto+reinforcement+learning+robot+vision+PhD+program+positions"
+    },
+    {
+      "name": "Alejandro Ribeiro",
+      "institution": "University of Pennsylvania",
+      "country": "US",
+      "contact_email": "alejandro.ribeiro@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5078862959",
+      "orcid": "Not available",
+      "research_focus": "sample-efficient policy gradient methods",
+      "evidence": [
+        {
+          "title": "On the sample complexity of actor-critic method for reinforcement learning with function approximation",
+          "year": 2023,
+          "link": "https://doi.org/10.1007/s10994-023-06303-2"
+        }
+      ],
+      "why_match": "Your 2023 paper on actor-critic sample complexity directly aligns with my IROS 2024 work on sample-efficient policy gradients for quadrotor control. My thesis on self-supervised representation learning for drone navigation would benefit from your theoretical foundations in RL function approximation, particularly for improving sample efficiency in autonomous systems.",
+      "tier": "reach",
+      "tier_rationale": "The student is from an elite institution (IIT Madras) but the PI has an exceptionally high h-index (60) at a top-tier university (UPenn), making this a highly competitive match despite the student's strong profile.",
+      "linked_phd_program_url": "https://www.google.com/search?q=University+of+Pennsylvania+sample-efficient+policy+gradient+methods+PhD+program+positions"
+    },
+    {
+      "name": "Yongming Liu",
+      "institution": "Arizona State University",
+      "country": "US",
+      "contact_email": "yongming.liu@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5100775352",
+      "orcid": "Not available",
+      "research_focus": "PPO autonomous drone navigation",
+      "evidence": [
+        {
+          "title": "Obstacle Avoidance for UAS in Continuous Action Space Using Deep Reinforcement Learning",
+          "year": 2022,
+          "link": "https://doi.org/10.1109/access.2022.3201962"
+        }
+      ],
+      "why_match": "Your 2022 paper on obstacle avoidance for UAS in continuous action spaces using deep reinforcement learning aligns directly with my IROS 2024 publication on sample-efficient policy gradients for quadrotor control. My thesis work on self-supervised representation learning for autonomous drone navigation would extend your research by addressing perception challenges in reinforcement learning frameworks for UAS.",
+      "tier": "reach",
+      "tier_rationale": "Student is from elite institution (IIT Madras) but PI has exceptionally high h-index (51) at a strong but not elite US institution, making this a competitive reach despite student's strong profile.",
+      "linked_phd_program_url": "https://www.google.com/search?q=Arizona+State+University+PPO+autonomous+drone+navigation+PhD+program+positions"
+    },
+    {
+      "name": "Sheila A. McIlraith",
+      "institution": "University of Toronto",
+      "country": "CA",
+      "contact_email": "sheila.mcilraith@utoronto.ca",
+      "contact_email_status": "estimated_by_institution_domain",
+      "profile_url": "https://openalex.org/A5041982650",
+      "orcid": "Not available",
+      "research_focus": "reinforcement learning robot vision",
+      "evidence": [
+        {
+          "title": "Reward Machines: Exploiting Reward Function Structure in Reinforcement Learning",
+          "year": 2022,
+          "link": "https://doi.org/10.1613/jair.1.12440"
+        }
+      ],
+      "why_match": "Your work on Reward Machines (2022) directly complements my IROS 2024 publication on sample-efficient policy gradients for quadrotor control, as both focus on structured reward exploitation in RL. My thesis on self-supervised representation learning for drone navigation aligns with your research's emphasis on formalizing reward structures for complex autonomous systems.",
+      "tier": "reach",
+      "tier_rationale": "The student is from an elite institution (IIT Madras) but the PI has an h-index of 51 at University of Toronto (top-tier institution), exceeding the reach threshold of h-index >= 30 for elite students.",
+      "linked_phd_program_url": "https://www.google.com/search?q=University+of+Toronto+reinforcement+learning+robot+vision+PhD+program+positions"
+    },
+    {
+      "name": "Jiayu Zhou",
+      "institution": "Michigan State University",
+      "country": "US",
+      "contact_email": "jiayu.zhou@msu.edu",
+      "contact_email_status": "estimated_by_institution_domain",
+      "profile_url": "https://openalex.org/A5047215778",
+      "orcid": "Not available",
+      "research_focus": "reinforcement learning robot vision",
+      "evidence": [
+        {
+          "title": "Transfer Learning in Deep Reinforcement Learning: A Survey",
+          "year": 2023,
+          "link": "https://doi.org/10.1109/tpami.2023.3292075"
+        }
+      ],
+      "why_match": "Your 2023 survey on transfer learning in deep reinforcement learning directly aligns with my IROS 2024 publication on sample-efficient policy gradients for quadrotor control, where I developed self-supervised representation learning techniques for drone navigation. My expertise in PyTorch and ROS implementation would enable immediate contributions to your lab's work on bridging simulation-to-real transfer gaps in autonomous systems.",
+      "tier": "reach",
+      "tier_rationale": "The student has an elite academic background from IIT Madras with strong publications, but Professor Zhou's h-index of 45 at Michigan State University represents an exceptionally established researcher profile that exceeds even typical target ranges for elite students.",
+      "linked_phd_program_url": "https://www.google.com/search?q=Michigan+State+University+reinforcement+learning+robot+vision+PhD+program+positions"
+    },
+    {
+      "name": "Shuran Song",
+      "institution": "Columbia University",
+      "country": "US",
+      "contact_email": "shuran.song@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5004644695",
+      "orcid": "Not available",
+      "research_focus": "sample-efficient policy gradient methods",
+      "evidence": [
+        {
+          "title": "Diffusion Policy: Visuomotor Policy Learning via Action Diffusion",
+          "year": 2023,
+          "link": "https://doi.org/10.15607/rss.2023.xix.026"
+        }
+      ],
+      "why_match": "Your work on Diffusion Policy for visuomotor learning directly aligns with my IIT Madras thesis on self-supervised representation learning for autonomous drone navigation. My IROS 2024 publication on sample-efficient policy gradients for quadrotor control demonstrates practical experience with the reinforcement learning and robotics challenges your lab addresses.",
+      "tier": "reach",
+      "tier_rationale": "Student from elite institution (IIT Madras) with strong profile, but PI has h-index 50 at Columbia University (top-tier institution), making this highly competitive despite student's qualifications.",
+      "linked_phd_program_url": "https://www.google.com/search?q=Columbia+University+sample-efficient+policy+gradient+methods+PhD+program+positions"
+    },
+    {
+      "name": "Mac Schwager",
+      "institution": "Vaughn College of Aeronautics and Technology",
+      "country": "US",
+      "contact_email": "mac.schwager@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5081950488",
+      "orcid": "Not available",
+      "research_focus": "ROS-based drone control",
+      "evidence": [
+        {
+          "title": "CineMPC: A Fully Autonomous Drone Cinematography System Incorporating Zoom, Focus, Pose, and Scene Composition",
+          "year": 2024,
+          "link": "https://doi.org/10.1109/tro.2024.3353550"
+        }
+      ],
+      "why_match": "My thesis on self-supervised representation learning for autonomous drone navigation directly complements your work on CineMPC's autonomous cinematography system, particularly in developing robust perception modules. My IROS publication on sample-efficient policy gradient methods for quadrotor control demonstrates practical experience with the reinforcement learning and control challenges central to your research agenda.",
+      "tier": "reach",
+      "tier_rationale": "While the student comes from an elite institution (IIT Madras) with strong publications, PI Mac Schwager has an exceptionally high h-index (49) at a specialized aeronautics institution, making this a highly competitive match despite the strong technical alignment.",
+      "linked_phd_program_url": "https://www.google.com/search?q=Vaughn+College+of+Aeronautics+and+Technology+ROS-based+drone+control+PhD+program+positions"
+    },
+    {
+      "name": "John McPhee",
+      "institution": "University of Waterloo",
+      "country": "CA",
+      "contact_email": "john.mcphee@uwaterloo.ca",
+      "contact_email_status": "estimated_by_institution_domain",
+      "profile_url": "https://openalex.org/A5088867034",
+      "orcid": "Not available",
+      "research_focus": "deep reinforcement learning quadrotor control",
+      "evidence": [
+        {
+          "title": "Multibody dynamics and control using machine learning",
+          "year": 2023,
+          "link": "https://doi.org/10.1007/s11044-023-09884-x"
+        }
+      ],
+      "why_match": "Your 2023 publication on multibody dynamics and control using machine learning directly aligns with my IROS work on sample-efficient policy gradients for quadrotor control. My thesis on self-supervised representation learning for drone navigation would extend your ML-based control research to autonomous systems with partial observability.",
+      "tier": "reach",
+      "tier_rationale": "While the student has an elite academic background from IIT Madras with strong publications, Professor McPhee has an h-index of 41 at University of Waterloo (a top-tier Canadian institution), making this a highly competitive match even for elite students.",
+      "linked_phd_program_url": "https://www.google.com/search?q=University+of+Waterloo+deep+reinforcement+learning+quadrotor+control+PhD+program+positions"
+    },
+    {
+      "name": "Samuel Cheng",
+      "institution": "University of Oklahoma",
+      "country": "US",
+      "contact_email": "samuel.cheng@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5017174019",
+      "orcid": "Not available",
+      "research_focus": "reinforcement learning robot vision",
+      "evidence": [
+        {
+          "title": "A Survey on Deep Reinforcement Learning Algorithms for Robotic Manipulation",
+          "year": 2023,
+          "link": "https://doi.org/10.3390/s23073762"
+        }
+      ],
+      "why_match": "My thesis on self-supervised representation learning for autonomous drone navigation directly aligns with your 2023 survey on deep reinforcement learning for robotic manipulation, particularly in developing sample-efficient methods for real-world robotics. My IROS 2024 publication on policy gradient methods for quadrotor control demonstrates practical experience with the exact reinforcement learning challenges your survey identifies as critical for robotic systems.",
+      "tier": "reach",
+      "tier_rationale": "While the student has an elite academic background from IIT Madras with strong publications, Professor Cheng's h-index of 32 at a mid-tier institution (University of Oklahoma) creates a reach scenario because his high citation impact exceeds what would typically be expected even for elite students targeting faculty at non-top-tier institutions.",
+      "linked_phd_program_url": "https://www.google.com/search?q=University+of+Oklahoma+reinforcement+learning+robot+vision+PhD+program+positions"
+    },
+    {
+      "name": "Giuseppe Loianno",
+      "institution": "New York University",
+      "country": "US",
+      "contact_email": "giuseppe.loianno@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5077485450",
+      "orcid": "Not available",
+      "research_focus": "deep reinforcement learning quadrotor control",
+      "evidence": [
+        {
+          "title": "Learning to Fly in Seconds",
+          "year": 2024,
+          "link": "https://doi.org/10.1109/lra.2024.3396025"
+        },
+        {
+          "title": "The Power of Input: Benchmarking Zero-Shot Sim-to-Real Transfer of Reinforcement Learning Control Policies for Quadrotor Control",
+          "year": 2024,
+          "link": "https://doi.org/10.1109/iros58592.2024.10802831"
+        }
+      ],
+      "why_match": "My thesis on self-supervised representation learning for autonomous drone navigation directly aligns with your recent work on 'Learning to Fly in Seconds' and sim-to-real transfer for quadrotor control. My IROS 2024 publication on sample-efficient policy gradient methods for quadrotors demonstrates practical experience with the exact reinforcement learning challenges your lab addresses.",
+      "tier": "reach",
+      "tier_rationale": "While the student has an elite academic background from IIT Madras with strong publications, Professor Loianno has an h-index of 37 at NYU (a top-tier institution), making this a highly competitive match even for exceptional students.",
+      "linked_phd_program_url": "https://www.google.com/search?q=New+York+University+deep+reinforcement+learning+quadrotor+control+PhD+program+positions"
+    },
+    {
+      "name": "Kaamran Raahemifar",
+      "institution": "Pennsylvania State University",
+      "country": "US",
+      "contact_email": "kaamran.raahemifar@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5042529202",
+      "orcid": "Not available",
+      "research_focus": "PPO autonomous drone navigation",
+      "evidence": [
+        {
+          "title": "Autonomous Vehicle Decision-Making and Control in Complex and Unconventional Scenarios\u2014A Review",
+          "year": 2023,
+          "link": "https://doi.org/10.3390/machines11070676"
+        }
+      ],
+      "why_match": "Your 2023 review on autonomous vehicle decision-making in complex scenarios aligns directly with my IROS 2024 publication on sample-efficient policy gradients for quadrotor control. My thesis work in self-supervised representation learning for drone navigation provides strong technical foundations for extending your research to aerial autonomy in unstructured environments.",
+      "tier": "reach",
+      "tier_rationale": "The PI has an h-index of 42 at a top-tier US institution, which qualifies as highly established relative to even an elite student from IIT Madras.",
+      "linked_phd_program_url": "https://www.google.com/search?q=Pennsylvania+State+University+PPO+autonomous+drone+navigation+PhD+program+positions"
+    },
+    {
+      "name": "Fei Fang",
+      "institution": "Carnegie Mellon University",
+      "country": "US",
+      "contact_email": "fei.fang@cmu.edu",
+      "contact_email_status": "estimated_by_institution_domain",
+      "profile_url": "https://openalex.org/A5061127138",
+      "orcid": "Not available",
+      "research_focus": "reinforcement learning robot vision",
+      "evidence": [
+        {
+          "title": "Explainable Reinforcement Learning: A Survey and Comparative Review",
+          "year": 2023,
+          "link": "https://doi.org/10.1145/3616864"
+        }
+      ],
+      "why_match": "My thesis on self-supervised representation learning for autonomous drone navigation directly aligns with your survey on explainable reinforcement learning, particularly in developing interpretable policies for robotic systems. My IROS publication on sample-efficient policy gradient methods for quadrotor control demonstrates practical experience with reinforcement learning frameworks that could extend your work into embodied AI applications.",
+      "tier": "reach",
+      "tier_rationale": "Student from elite institution (IIT Madras) with strong profile, but PI has h-index 42 at top-tier institution (CMU), exceeding typical target range and representing highly competitive opportunity.",
+      "linked_phd_program_url": "https://www.google.com/search?q=Carnegie+Mellon+University+reinforcement+learning+robot+vision+PhD+program+positions"
+    },
+    {
+      "name": "Ayan Dutta",
+      "institution": "University of North Florida",
+      "country": "US",
+      "contact_email": "ayan.dutta@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5064262477",
+      "orcid": "Not available",
+      "research_focus": "reinforcement learning robot vision",
+      "evidence": [
+        {
+          "title": "Multi-Agent Deep Reinforcement Learning for Multi-Robot Applications: A Survey",
+          "year": 2023,
+          "link": "https://doi.org/10.3390/s23073625"
+        }
+      ],
+      "why_match": "Your 2023 survey on multi-agent deep reinforcement learning for multi-robot applications directly aligns with my IROS 2024 publication on sample-efficient policy gradient methods for quadrotor control. My thesis work on self-supervised representation learning for autonomous drone navigation would complement your research focus on multi-robot systems, particularly in developing more efficient learning approaches for coordinated aerial robotics.",
+      "tier": "safety",
+      "tier_rationale": "While the student comes from an elite institution (IIT Madras), the PI has an h-index of 16 at a mid-tier US university (University of North Florida), making this a highly accessible opportunity relative to the student's academic background and publication record.",
+      "linked_phd_program_url": "https://www.google.com/search?q=University+of+North+Florida+reinforcement+learning+robot+vision+PhD+program+positions"
+    },
+    {
+      "name": "Ying Huang",
+      "institution": "North Dakota State University",
+      "country": "US",
+      "contact_email": "ying.huang@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5062802994",
+      "orcid": "Not available",
+      "research_focus": "autonomous vehicle control systems",
+      "evidence": [
+        {
+          "title": "Technology Developments and Impacts of Connected and Autonomous Vehicles: An Overview",
+          "year": 2022,
+          "link": "https://doi.org/10.3390/smartcities5010022"
+        }
+      ],
+      "why_match": "Your 2022 overview on connected and autonomous vehicles directly aligns with my IIT Madras thesis on self-supervised representation learning for autonomous drone navigation, particularly in shared perception and control challenges. My IROS 2024 publication on sample-efficient policy gradient methods for quadrotor control demonstrates applicable reinforcement learning expertise for scaling your autonomous systems research.",
+      "tier": "reach",
+      "tier_rationale": "While the student has an elite academic background from IIT Madras with strong publications, Professor Huang's h-index of 38 at a mid-tier institution (North Dakota State University) creates a reach scenario due to the significant research seniority gap despite the institutional mismatch.",
+      "linked_phd_program_url": "https://www.google.com/search?q=North+Dakota+State+University+autonomous+vehicle+control+systems+PhD+program+positions"
+    },
+    {
+      "name": "Roberto Mart\u00edn-Mart\u00edn",
+      "institution": "The University of Texas at Austin",
+      "country": "US",
+      "contact_email": "roberto.mart\u00edn-mart\u00edn@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5065655761",
+      "orcid": "Not available",
+      "research_focus": "PPO autonomous drone navigation",
+      "evidence": [
+        {
+          "title": "Principles and Guidelines for Evaluating Social Robot Navigation Algorithms",
+          "year": 2023,
+          "link": "https://doi.org/10.48550/arxiv.2306.16740"
+        }
+      ],
+      "why_match": "Your 2023 publication 'Principles and Guidelines for Evaluating Social Robot Navigation Algorithms' directly aligns with my IIT Madras thesis on self-supervised representation learning for autonomous drone navigation, particularly in developing robust evaluation frameworks for real-world deployment. My IROS 2024 paper on sample-efficient policy gradient methods for quadrotor control demonstrates my PyTorch and reinforcement learning capabilities applicable to your social navigation research challenges.",
+      "tier": "reach",
+      "tier_rationale": "The student has an elite academic background from IIT Madras with strong publications, but the PI has an h-index of 35 at UT Austin (top-tier institution), making this a highly competitive match despite the student's strong profile.",
+      "linked_phd_program_url": "https://www.google.com/search?q=The+University+of+Texas+at+Austin+PPO+autonomous+drone+navigation+PhD+program+positions"
+    },
+    {
+      "name": "Ge Yang",
+      "institution": "The NSF AI Institute for Artificial Intelligence and Fundamental Interactions",
+      "country": "US",
+      "contact_email": "ge.yang@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5100631685",
+      "orcid": "Not available",
+      "research_focus": "reinforcement learning robot vision",
+      "evidence": [
+        {
+          "title": "Rapid Locomotion via Reinforcement Learning",
+          "year": 2022,
+          "link": "https://doi.org/10.15607/rss.2022.xviii.022"
+        }
+      ],
+      "why_match": "My thesis on self-supervised representation learning for autonomous drone navigation directly aligns with your work on rapid locomotion via reinforcement learning, particularly in developing sample-efficient methods for robotic control. My IROS 2024 publication on policy gradient methods for quadrotor control demonstrates practical experience with the reinforcement learning frameworks central to your research agenda.",
+      "tier": "reach",
+      "tier_rationale": "The student is from an elite institution (IIT Madras) but the PI has an h-index of 37 and is affiliated with the NSF AI Institute, representing a highly established researcher at a top-tier US research organization, making this a reach even for an elite student.",
+      "linked_phd_program_url": "https://www.google.com/search?q=The+NSF+AI+Institute+for+Artificial+Intelligence+and+Fundamental+Interactions+reinforcement+learning+robot+vision+PhD+program+positions"
+    },
+    {
+      "name": "Vincent Sitzmann",
+      "institution": "Massachusetts Institute of Technology",
+      "country": "US",
+      "contact_email": "vincent.sitzmann@mit.edu",
+      "contact_email_status": "estimated_by_institution_domain",
+      "profile_url": "https://openalex.org/A5016061808",
+      "orcid": "Not available",
+      "research_focus": "self-supervised representation learning robotics",
+      "evidence": [
+        {
+          "title": "Neural Descriptor Fields: SE(3)-Equivariant Object Representations for Manipulation",
+          "year": 2022,
+          "link": "https://doi.org/10.1109/icra46639.2022.9812146"
+        }
+      ],
+      "why_match": "My thesis on self-supervised representation learning for autonomous drone navigation directly aligns with your work on Neural Descriptor Fields, particularly in developing SE(3)-equivariant representations for robotic systems. My IROS publication on sample-efficient policy gradient methods for quadrotor control demonstrates practical experience with the reinforcement learning and computer vision techniques central to your research agenda.",
+      "tier": "reach",
+      "tier_rationale": "While the student has an elite academic background from IIT Madras with strong publications, Professor Sitzmann is at MIT (top-tier institution) with an h-index of 25, making this a highly competitive match despite the strong research alignment.",
+      "linked_phd_program_url": "https://www.google.com/search?q=Massachusetts+Institute+of+Technology+self-supervised+representation+learning+robotics+PhD+program+positions"
+    },
+    {
+      "name": "Homayoun Najjaran",
+      "institution": "University of Victoria",
+      "country": "CA",
+      "contact_email": "homayoun.najjaran@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5058540009",
+      "orcid": "Not available",
+      "research_focus": "PPO autonomous drone navigation",
+      "evidence": [
+        {
+          "title": "Learning team-based navigation: a review of deep reinforcement learning techniques for multi-agent pathfinding",
+          "year": 2024,
+          "link": "https://doi.org/10.1007/s10462-023-10670-6"
+        }
+      ],
+      "why_match": "Your 2024 review on deep reinforcement learning for multi-agent pathfinding directly aligns with my IROS 2024 publication on sample-efficient policy gradients for quadrotor control. My thesis work on self-supervised representation learning for autonomous drone navigation could extend your multi-agent research to unsupervised perception modules for collaborative navigation systems.",
+      "tier": "reach",
+      "tier_rationale": "While the student has an elite academic background from IIT Madras with strong publications, Professor Najjaran's h-index of 34 at University of Victoria places him in the highly established category per the reach tier criteria (h-index >= 30).",
+      "linked_phd_program_url": "https://www.google.com/search?q=University+of+Victoria+PPO+autonomous+drone+navigation+PhD+program+positions"
+    },
+    {
+      "name": "Houtan Jebelli",
+      "institution": "University of Illinois Urbana-Champaign",
+      "country": "US",
+      "contact_email": "houtan.jebelli@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5035070058",
+      "orcid": "Not available",
+      "research_focus": "PPO autonomous drone navigation",
+      "evidence": [
+        {
+          "title": "Efficient 3D robotic mapping and navigation method in complex construction environments",
+          "year": 2024,
+          "link": "https://doi.org/10.1111/mice.13353"
+        }
+      ],
+      "why_match": "Your 2024 publication on 3D robotic mapping in complex construction environments directly aligns with my IIT Madras thesis on self-supervised representation learning for autonomous drone navigation. My IROS paper on sample-efficient policy gradients for quadrotor control demonstrates practical experience with the reinforcement learning and computer vision techniques needed for your work in robotic navigation systems.",
+      "tier": "reach",
+      "tier_rationale": "While the student comes from an elite institution (IIT Madras), the PI has an h-index of 33 (above the reach threshold of 30) and is at UIUC, a top-tier research university, making this a reach match despite the strong student profile.",
+      "linked_phd_program_url": "https://www.google.com/search?q=University+of+Illinois+Urbana-Champaign+PPO+autonomous+drone+navigation+PhD+program+positions"
+    },
+    {
+      "name": "Lerrel Pinto",
+      "institution": "New York University",
+      "country": "US",
+      "contact_email": "lerrel.pinto@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5103895643",
+      "orcid": "Not available",
+      "research_focus": "self-supervised representation learning robotics",
+      "evidence": [
+        {
+          "title": "The Surprising Effectiveness of Representation Learning for Visual Imitation",
+          "year": 2022,
+          "link": "https://doi.org/10.15607/rss.2022.xviii.010"
+        }
+      ],
+      "why_match": "Your 2022 paper on representation learning for visual imitation directly aligns with my IIT Madras thesis on self-supervised representation learning for autonomous drone navigation. My IROS 2024 publication on sample-efficient policy gradients for quadrotor control demonstrates practical experience implementing these methods in robotic systems using PyTorch and ROS.",
+      "tier": "reach",
+      "tier_rationale": "While the student has an elite academic background from IIT Madras with strong publications, Professor Pinto at NYU has an h-index of 30 at a top-tier US institution, making this a highly competitive match even for exceptional students.",
+      "linked_phd_program_url": "https://www.google.com/search?q=New+York+University+self-supervised+representation+learning+robotics+PhD+program+positions"
+    },
+    {
+      "name": "Jing Du",
+      "institution": "University of Florida",
+      "country": "US",
+      "contact_email": "jing.du@ufl.edu",
+      "contact_email_status": "estimated_by_institution_domain",
+      "profile_url": "https://openalex.org/A5018591825",
+      "orcid": "Not available",
+      "research_focus": "PPO autonomous drone navigation",
+      "evidence": [
+        {
+          "title": "LLM-Driven Pareto-Optimal Multi-Mode Reinforcement Learning for Adaptive UAV Navigation in Urban Wind Environments",
+          "year": 2025,
+          "link": "https://doi.org/10.1109/access.2025.3611336"
+        }
+      ],
+      "why_match": "My thesis on self-supervised representation learning for autonomous drone navigation directly aligns with your recent work on LLM-driven multi-mode reinforcement learning for adaptive UAV navigation. My IROS publication on sample-efficient policy gradient methods for quadrotor control demonstrates practical experience with the reinforcement learning frameworks central to your research in urban wind environments.",
+      "tier": "target",
+      "tier_rationale": "The student's elite academic background (IIT Madras with high GPA and IROS publication) matches well with a PI at a strong research institution (University of Florida) with an h-index of 30, placing this in the target category where both profiles are highly competitive but appropriately matched.",
+      "linked_phd_program_url": "https://www.google.com/search?q=University+of+Florida+PPO+autonomous+drone+navigation+PhD+program+positions"
+    },
+    {
+      "name": "Mahmut Reyhanoglu",
+      "institution": "Columbus State University",
+      "country": "US",
+      "contact_email": "mahmut.reyhanoglu@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5055562417",
+      "orcid": "Not available",
+      "research_focus": "autonomous vehicle control systems",
+      "evidence": [
+        {
+          "title": "Machine Learning-Based Control of Autonomous Vehicles for Solar Panel Cleaning Systems in Agricultural Solar Farms",
+          "year": 2024,
+          "link": "https://doi.org/10.3390/agriengineering6020081"
+        }
+      ],
+      "why_match": "Your 2024 publication on machine learning-based control of autonomous vehicles for solar panel cleaning systems directly aligns with my IROS work on sample-efficient policy gradient methods for quadrotor control. My thesis on self-supervised representation learning for autonomous drone navigation provides the technical foundation to extend your research to agricultural robotics applications requiring robust perception and control.",
+      "tier": "reach",
+      "tier_rationale": "While the student has an elite academic background from IIT Madras with strong publications, the PI's h-index of 32 exceeds the target range threshold, but Columbus State University is not a top-tier research institution relative to the student's profile, creating a mixed signal that places this in reach category.",
+      "linked_phd_program_url": "https://www.google.com/search?q=Columbus+State+University+autonomous+vehicle+control+systems+PhD+program+positions"
+    },
+    {
+      "name": "Peter A. Beling",
+      "institution": "Virginia Tech",
+      "country": "US",
+      "contact_email": "peter.beling@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5056670558",
+      "orcid": "Not available",
+      "research_focus": "reinforcement learning robot vision",
+      "evidence": [
+        {
+          "title": "A survey of inverse reinforcement learning",
+          "year": 2022,
+          "link": "https://doi.org/10.1007/s10462-021-10108-x"
+        }
+      ],
+      "why_match": "My thesis on self-supervised representation learning for autonomous drone navigation directly aligns with your 2022 survey on inverse reinforcement learning, particularly in developing sample-efficient methods for robotic control. My IROS publication on policy gradient methods for quadrotors demonstrates practical experience with the exact reinforcement learning frameworks your work systematically reviews.",
+      "tier": "target",
+      "tier_rationale": "Student from elite institution (IIT Madras) matches well with PI at strong research university (Virginia Tech) with solid h-index (30), representing an appropriate target given comparable academic profiles.",
+      "linked_phd_program_url": "https://www.google.com/search?q=Virginia+Tech+reinforcement+learning+robot+vision+PhD+program+positions"
+    },
+    {
+      "name": "Pulkit Agrawal",
+      "institution": "The NSF AI Institute for Artificial Intelligence and Fundamental Interactions",
+      "country": "US",
+      "contact_email": "pulkit.agrawal@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5111774389",
+      "orcid": "Not available",
+      "research_focus": "reinforcement learning robot vision",
+      "evidence": [
+        {
+          "title": "Rapid Locomotion via Reinforcement Learning",
+          "year": 2022,
+          "link": "https://doi.org/10.15607/rss.2022.xviii.022"
+        }
+      ],
+      "why_match": "Your work on 'Rapid Locomotion via Reinforcement Learning' directly aligns with my IROS 2024 publication on sample-efficient policy gradients for quadrotor control, where I developed self-supervised representation learning methods for drone navigation. My expertise in PyTorch and ROS would allow me to immediately contribute to your lab's reinforcement learning research for embodied AI systems.",
+      "tier": "reach",
+      "tier_rationale": "While the student has an elite academic background from IIT Madras and relevant publications, PI Pulkit Agrawal has an h-index of 30 and is affiliated with the NSF AI Institute, representing a highly established researcher at a top-tier US institution.",
+      "linked_phd_program_url": "https://www.google.com/search?q=The+NSF+AI+Institute+for+Artificial+Intelligence+and+Fundamental+Interactions+reinforcement+learning+robot+vision+PhD+program+positions"
+    },
+    {
+      "name": "Xiaolong Wang",
+      "institution": "University of California, San Diego",
+      "country": "US",
+      "contact_email": "xiaolong.wang@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5100424275",
+      "orcid": "Not available",
+      "research_focus": "reinforcement learning robot vision",
+      "evidence": [
+        {
+          "title": "DexMV: Imitation Learning for\u00a0Dexterous Manipulation from\u00a0Human Videos",
+          "year": 2022,
+          "link": "https://doi.org/10.1007/978-3-031-19842-7_33"
+        },
+        {
+          "title": "Visual Reinforcement Learning With Self-Supervised 3D Representations",
+          "year": 2023,
+          "link": "https://doi.org/10.1109/lra.2023.3259681"
+        }
+      ],
+      "why_match": "Your recent work on 'Visual Reinforcement Learning With Self-Supervised 3D Representations' directly aligns with my IIT Madras thesis on self-supervised representation learning for autonomous drone navigation. My IROS 2024 publication on sample-efficient policy gradient methods for quadrotor control demonstrates practical experience in reinforcement learning and robotics that could extend your research to aerial systems.",
+      "tier": "target",
+      "tier_rationale": "The student comes from an elite academic background (IIT Madras with high GPA and IROS publication) which matches well with Professor Wang's strong research profile (h-index 22 at UC San Diego), making this a target-level match rather than a reach.",
+      "linked_phd_program_url": "https://www.google.com/search?q=University+of+California,+San+Diego+reinforcement+learning+robot+vision+PhD+program+positions"
+    },
+    {
+      "name": "Nasser L. Azad",
+      "institution": "University of Waterloo",
+      "country": "CA",
+      "contact_email": "nasser.azad@uwaterloo.ca",
+      "contact_email_status": "estimated_by_institution_domain",
+      "profile_url": "https://openalex.org/A5033006881",
+      "orcid": "Not available",
+      "research_focus": "PPO autonomous drone navigation",
+      "evidence": [
+        {
+          "title": "Autonomous Vehicle Decision-Making and Control in Complex and Unconventional Scenarios\u2014A Review",
+          "year": 2023,
+          "link": "https://doi.org/10.3390/machines11070676"
+        }
+      ],
+      "why_match": "Your 2023 review on autonomous vehicle decision-making in complex scenarios aligns directly with my IROS 2024 publication on sample-efficient policy gradients for quadrotor control. My thesis work in self-supervised representation learning for drone navigation would extend your research into aerial domains using similar reinforcement learning frameworks.",
+      "tier": "target",
+      "tier_rationale": "The student's elite academic background (IIT Madras with high GPA and IROS publication) matches well with the PI's strong profile (h-index 28 at University of Waterloo, a top Canadian research institution), making this a target-level match rather than a reach.",
+      "linked_phd_program_url": "https://www.google.com/search?q=University+of+Waterloo+PPO+autonomous+drone+navigation+PhD+program+positions"
+    },
+    {
+      "name": "Draguna Vrabie",
+      "institution": "Pacific Northwest National Laboratory",
+      "country": "US",
+      "contact_email": "draguna.vrabie@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5047724723",
+      "orcid": "Not available",
+      "research_focus": "sample-efficient policy gradient methods",
+      "evidence": [
+        {
+          "title": "Learning Constrained Parametric Differentiable Predictive Control Policies With Guarantees",
+          "year": 2024,
+          "link": "https://doi.org/10.1109/tsmc.2024.3368026"
+        }
+      ],
+      "why_match": "Your recent work on 'Learning Constrained Parametric Differentiable Predictive Control Policies With Guarantees' directly aligns with my IIT Madras thesis on self-supervised representation learning for autonomous drone navigation, particularly in developing sample-efficient control policies. My IROS 2024 publication on policy gradient methods for quadrotor control demonstrates practical experience with reinforcement learning frameworks that could extend your differentiable predictive control research to real-world robotic systems.",
+      "tier": "target",
+      "tier_rationale": "The student's elite academic background from IIT Madras with strong publications matches well with the PI's h-index of 28 at a national laboratory, representing a solid research institution alignment without significant institutional prestige mismatch.",
+      "linked_phd_program_url": "https://www.google.com/search?q=Pacific+Northwest+National+Laboratory+sample-efficient+policy+gradient+methods+PhD+program+positions"
+    },
+    {
+      "name": "Mostafa Hassanalian",
+      "institution": "New Mexico Institute of Mining and Technology",
+      "country": "US",
+      "contact_email": "mostafa.hassanalian@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5085129884",
+      "orcid": "Not available",
+      "research_focus": "PPO autonomous drone navigation",
+      "evidence": [
+        {
+          "title": "A Comprehensive Review of Classification and Application of Machine Learning in Drone Technology",
+          "year": 2023,
+          "link": "https://doi.org/10.20944/preprints202306.1901.v1"
+        }
+      ],
+      "why_match": "Your 2023 comprehensive review on machine learning in drone technology directly aligns with my IIT Madras thesis on self-supervised representation learning for autonomous drone navigation. My IROS 2024 publication on sample-efficient policy gradient methods for quadrotor control demonstrates practical experience in applying reinforcement learning to drone control systems that complements your research focus.",
+      "tier": "target",
+      "tier_rationale": "The student comes from an elite institution (IIT Madras) with strong publications, while the PI has an h-index of 27 at a solid research institution, making this a well-matched target rather than reach or safety.",
+      "linked_phd_program_url": "https://www.google.com/search?q=New+Mexico+Institute+of+Mining+and+Technology+PPO+autonomous+drone+navigation+PhD+program+positions"
+    },
+    {
+      "name": "Moataz Mohamed",
+      "institution": "McMaster University",
+      "country": "CA",
+      "contact_email": "moataz.mohamed@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5028978202",
+      "orcid": "Not available",
+      "research_focus": "ROS-based drone control",
+      "evidence": [
+        {
+          "title": "The Impact of Airspace Discretization on the Energy Consumption of Autonomous Unmanned Aerial Vehicles (Drones)",
+          "year": 2022,
+          "link": "https://doi.org/10.3390/en15145074"
+        }
+      ],
+      "why_match": "Your 2022 publication on energy consumption optimization for autonomous drones aligns directly with my IIT Madras thesis on self-supervised representation learning for drone navigation. My IROS 2024 paper on sample-efficient policy gradient methods for quadrotor control demonstrates practical experience with the reinforcement learning approaches that could extend your energy optimization research.",
+      "tier": "target",
+      "tier_rationale": "Student from elite institution (IIT Madras) matches well with PI at strong research university (McMaster) with solid h-index (28), representing an appropriate target given comparable academic profiles.",
+      "linked_phd_program_url": "https://www.google.com/search?q=McMaster+University+ROS-based+drone+control+PhD+program+positions"
+    },
+    {
+      "name": "Di An",
+      "institution": "University of California, Merced",
+      "country": "US",
+      "contact_email": "di.an@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5012821821",
+      "orcid": "Not available",
+      "research_focus": "ROS-based drone control",
+      "evidence": [
+        {
+          "title": "Omni-Directional Capture for Multi-Drone Based on 3D-Voronoi Tessellation",
+          "year": 2023,
+          "link": "https://doi.org/10.3390/drones7070458"
+        }
+      ],
+      "why_match": "Your recent work on 'Omni-Directional Capture for Multi-Drone Based on 3D-Voronoi Tessellation' aligns directly with my IIT Madras thesis on self-supervised representation learning for autonomous drone navigation, particularly in multi-agent coordination. My IROS 2024 publication on sample-efficient policy gradient methods for quadrotor control demonstrates practical experience with the reinforcement learning and ROS frameworks essential for your research direction.",
+      "tier": "target",
+      "tier_rationale": "The student comes from an elite institution (IIT Madras) with strong publications, matching well with a PI at UC Merced (strong research institution) with h-index 28, which falls within the target range of 15-30 for elite students.",
+      "linked_phd_program_url": "https://www.google.com/search?q=University+of+California,+Merced+ROS-based+drone+control+PhD+program+positions"
+    },
+    {
+      "name": "L\u00fcder A. Kahrs",
+      "institution": "University of Toronto",
+      "country": "CA",
+      "contact_email": "l\u00fcder.kahrs@utoronto.ca",
+      "contact_email_status": "estimated_by_institution_domain",
+      "profile_url": "https://openalex.org/A5044949632",
+      "orcid": "Not available",
+      "research_focus": "reinforcement learning robot vision",
+      "evidence": [
+        {
+          "title": "Sim2Real Rope Cutting With a Surgical Robot Using Vision-Based Reinforcement Learning",
+          "year": 2024,
+          "link": "https://doi.org/10.1109/tase.2024.3410297"
+        }
+      ],
+      "why_match": "Your recent work on 'Sim2Real Rope Cutting With a Surgical Robot Using Vision-Based Reinforcement Learning' directly aligns with my IIT Madras thesis on self-supervised representation learning for autonomous navigation, particularly in bridging simulation-to-real gaps. My IROS publication on sample-efficient policy gradients for quadrotor control demonstrates complementary expertise in reinforcement learning for robotic systems using PyTorch and ROS.",
+      "tier": "target",
+      "tier_rationale": "The student's elite academic background (IIT Madras with high GPA and IROS publication) matches well with a University of Toronto PI whose h-index (16) falls within the target range (15-30) for strong research institutions.",
+      "linked_phd_program_url": "https://www.google.com/search?q=University+of+Toronto+reinforcement+learning+robot+vision+PhD+program+positions"
+    },
+    {
+      "name": "Stephen Adams",
+      "institution": "Virginia Tech",
+      "country": "US",
+      "contact_email": "stephen.adams@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5060460337",
+      "orcid": "Not available",
+      "research_focus": "reinforcement learning robot vision",
+      "evidence": [
+        {
+          "title": "A survey of inverse reinforcement learning",
+          "year": 2022,
+          "link": "https://doi.org/10.1007/s10462-021-10108-x"
+        }
+      ],
+      "why_match": "My thesis on self-supervised representation learning for autonomous drone navigation directly aligns with your 2022 survey on inverse reinforcement learning, particularly in developing sample-efficient learning methods for robotic control. My IROS 2024 publication on policy gradient methods for quadrotors demonstrates practical experience with the reinforcement learning frameworks central to your research agenda.",
+      "tier": "target",
+      "tier_rationale": "The student's elite academic background (IIT Madras with high GPA and IROS publication) matches well with a PI at a strong research institution (Virginia Tech) with solid h-index (26), making this a target-level match.",
+      "linked_phd_program_url": "https://www.google.com/search?q=Virginia+Tech+reinforcement+learning+robot+vision+PhD+program+positions"
+    },
+    {
+      "name": "J Knudsen",
+      "institution": "University of Southern California",
+      "country": "US",
+      "contact_email": "j.knudsen@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5012580074",
+      "orcid": "Not available",
+      "research_focus": "computer vision healthcare robotics",
+      "evidence": [
+        {
+          "title": "Clinical applications of artificial intelligence in robotic surgery",
+          "year": 2024,
+          "link": "https://doi.org/10.1007/s11701-024-01867-0"
+        }
+      ],
+      "why_match": "My thesis on self-supervised representation learning for autonomous drone navigation directly aligns with your work on clinical AI applications in robotic surgery, particularly in developing robust perception systems for autonomous systems. My IROS publication on sample-efficient policy gradient methods for quadrotor control demonstrates applicable expertise in reinforcement learning and robotics frameworks that could extend to surgical robotics domains.",
+      "tier": "target",
+      "tier_rationale": "Student from elite institution (IIT Madras) with strong publication matches well with PI at strong research university (USC) with solid h-index (26), representing an appropriate target given comparable academic profiles.",
+      "linked_phd_program_url": "https://www.google.com/search?q=University+of+Southern+California+computer+vision+healthcare+robotics+PhD+program+positions"
+    },
+    {
+      "name": "Tarek Elfouly",
+      "institution": "Tennessee Technological University",
+      "country": "US",
+      "contact_email": "tarek.elfouly@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5089660851",
+      "orcid": "Not available",
+      "research_focus": "deep reinforcement learning quadrotor control",
+      "evidence": [
+        {
+          "title": "A Survey on UAV Control with Multi-Agent Reinforcement Learning",
+          "year": 2025,
+          "link": "https://doi.org/10.3390/drones9070484"
+        }
+      ],
+      "why_match": "Your 2025 survey on multi-agent reinforcement learning for UAV control directly aligns with my IROS 2024 publication on sample-efficient policy gradients for quadrotor control. My thesis work on self-supervised representation learning for autonomous drone navigation could extend your research into more efficient perception-action frameworks for multi-UAV systems.",
+      "tier": "target",
+      "tier_rationale": "The student from an elite institution (IIT Madras) matches well with a PI at a strong research university (Tennessee Tech) with solid h-index (20), representing an appropriate target given both academic profiles.",
+      "linked_phd_program_url": "https://www.google.com/search?q=Tennessee+Technological+University+deep+reinforcement+learning+quadrotor+control+PhD+program+positions"
+    },
+    {
+      "name": "Elia Kaufmann",
+      "institution": "Robotics Research (United States)",
+      "country": "US",
+      "contact_email": "elia.kaufmann@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5003892206",
+      "orcid": "Not available",
+      "research_focus": "deep reinforcement learning quadrotor control",
+      "evidence": [
+        {
+          "title": "A Benchmark Comparison of Learned Control Policies for Agile Quadrotor Flight",
+          "year": 2022,
+          "link": "https://doi.org/10.1109/icra46639.2022.9811564"
+        }
+      ],
+      "why_match": "Your 2022 benchmark paper on learned control policies for agile quadrotor flight directly aligns with my IROS 2024 publication on sample-efficient policy gradient methods for quadrotor control. My thesis work in self-supervised representation learning for autonomous drone navigation provides complementary expertise in representation learning that could enhance your benchmark evaluation frameworks.",
+      "tier": "target",
+      "tier_rationale": "The student comes from an elite institution (IIT Madras) with strong publications, while the PI has an h-index of 18 at a robotics research institution, creating a well-matched academic profile without significant institutional or reputation gaps.",
+      "linked_phd_program_url": "https://www.google.com/search?q=Robotics+Research+(United+States)+deep+reinforcement+learning+quadrotor+control+PhD+program+positions"
+    },
+    {
+      "name": "Jiacun Wang",
+      "institution": "Monmouth University",
+      "country": "US",
+      "contact_email": "jiacun.wang@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5108025258",
+      "orcid": "Not available",
+      "research_focus": "deep reinforcement learning quadrotor control",
+      "evidence": [
+        {
+          "title": "Robust Wind-Resistant Hovering Control of Quadrotor UAVs Using Deep Reinforcement Learning",
+          "year": 2023,
+          "link": "https://doi.org/10.1109/tiv.2023.3324687"
+        }
+      ],
+      "why_match": "Your 2023 paper on robust wind-resistant hovering control using deep reinforcement learning directly aligns with my IROS 2024 publication on sample-efficient policy gradient methods for quadrotor control. My thesis work in self-supervised representation learning for autonomous drone navigation could complement your research by enhancing state representation for more robust UAV control in challenging environments.",
+      "tier": "safety",
+      "tier_rationale": "While the student comes from an elite institution (IIT Madras) with strong publications, Professor Wang's h-index of 17 and position at Monmouth University (mid-tier US institution) represents a highly accessible opportunity relative to the student's academic profile.",
+      "linked_phd_program_url": "https://www.google.com/search?q=Monmouth+University+deep+reinforcement+learning+quadrotor+control+PhD+program+positions"
+    },
+    {
+      "name": "Xiang Chen",
+      "institution": "University of Windsor",
+      "country": "CA",
+      "contact_email": "xiang.chen@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5100441907",
+      "orcid": "Not available",
+      "research_focus": "autonomous vehicle control systems",
+      "evidence": [
+        {
+          "title": "Adaptive Velocity and Acceleration Control of Autonomous Vehicle Systems",
+          "year": 2024,
+          "link": "https://doi.org/10.1109/tie.2024.3429629"
+        }
+      ],
+      "why_match": "Your recent work on 'Adaptive Velocity and Acceleration Control of Autonomous Vehicle Systems' aligns directly with my thesis on self-supervised representation learning for autonomous drone navigation, particularly in adaptive control under dynamic conditions. My IROS 2024 publication on sample-efficient policy gradient methods for quadrotor control demonstrates practical experience with reinforcement learning frameworks that could extend your research to aerial systems.",
+      "tier": "target",
+      "tier_rationale": "The student's elite academic background (IIT Madras with high GPA and IROS publication) matches well with the PI's solid h-index (23) at a strong research institution, making this a balanced target opportunity.",
+      "linked_phd_program_url": "https://www.google.com/search?q=University+of+Windsor+autonomous+vehicle+control+systems+PhD+program+positions"
+    },
+    {
+      "name": "Mohamad Forouzanfar",
+      "institution": "Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al",
+      "country": "CA",
+      "contact_email": "mohamad.forouzanfar@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5069636604",
+      "orcid": "Not available",
+      "research_focus": "computer vision healthcare robotics",
+      "evidence": [
+        {
+          "title": "The Role of AI in Hospitals and Clinics: Transforming Healthcare in the 21st Century",
+          "year": 2024,
+          "link": "https://doi.org/10.3390/bioengineering11040337"
+        }
+      ],
+      "why_match": "Your recent publication 'The Role of AI in Hospitals and Clinics' aligns with my expertise in self-supervised representation learning, as both require robust AI systems for real-world deployment. My IROS paper on sample-efficient policy gradients for quadrotor control demonstrates transferable skills in developing efficient AI solutions for safety-critical applications like healthcare robotics.",
+      "tier": "target",
+      "tier_rationale": "The student's elite academic background (IIT Madras with high GPA and IROS publication) matches well with the PI's solid h-index (22) at a strong Canadian research institution, making this a proportional match.",
+      "linked_phd_program_url": "https://www.google.com/search?q=Universit\u00e9+du+Qu\u00e9bec+\u00e0+Montr\u00e9al+computer+vision+healthcare+robotics+PhD+program+positions"
+    },
+    {
+      "name": "Armin Norouzi",
+      "institution": "University of Alberta",
+      "country": "CA",
+      "contact_email": "armin.norouzi@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5031268757",
+      "orcid": "Not available",
+      "research_focus": "deep reinforcement learning quadrotor control",
+      "evidence": [
+        {
+          "title": "Safe deep reinforcement learning in diesel engine emission control",
+          "year": 2023,
+          "link": "https://doi.org/10.1177/09596518231153445"
+        }
+      ],
+      "why_match": "Your 2023 publication on safe deep reinforcement learning for diesel engine emission control directly aligns with my IROS 2024 work on sample-efficient policy gradients for quadrotor control, particularly in addressing safety-critical constraints in real-world control systems. My thesis on self-supervised representation learning for autonomous drone navigation complements your focus on deploying RL in physical systems, and my expertise in PyTorch and ROS would enable immediate contribution to your research program.",
+      "tier": "target",
+      "tier_rationale": "The student comes from an elite institution (IIT Madras) with strong publications, while the PI has an h-index of 17 at a strong research university (University of Alberta), making this a well-matched target opportunity based on academic profile alignment.",
+      "linked_phd_program_url": "https://www.google.com/search?q=University+of+Alberta+deep+reinforcement+learning+quadrotor+control+PhD+program+positions"
+    },
+    {
+      "name": "Kakani Katija",
+      "institution": "Monterey Bay Aquarium Research Institute",
+      "country": "US",
+      "contact_email": "kakani.katija@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5021011900",
+      "orcid": "Not available",
+      "research_focus": "reinforcement learning robot vision",
+      "evidence": [
+        {
+          "title": "Dynamic robotic tracking of underwater targets using reinforcement learning",
+          "year": 2023,
+          "link": "https://doi.org/10.1126/scirobotics.ade7811"
+        }
+      ],
+      "why_match": "Your 2023 publication on reinforcement learning for dynamic robotic tracking of underwater targets directly aligns with my IROS work on sample-efficient policy gradients for quadrotor control. My thesis on self-supervised representation learning for autonomous drone navigation could extend your underwater robotics research to multi-modal perception tasks in marine environments.",
+      "tier": "target",
+      "tier_rationale": "Student from elite institution (IIT Madras) matches well with PI's solid h-index (23) at a specialized research institute, representing an appropriate academic pairing without significant prestige mismatch.",
+      "linked_phd_program_url": "https://www.google.com/search?q=Monterey+Bay+Aquarium+Research+Institute+reinforcement+learning+robot+vision+PhD+program+positions"
+    },
+    {
+      "name": "Siddharth Karamcheti",
+      "institution": "Stanford University",
+      "country": "US",
+      "contact_email": "siddharth.karamcheti@stanford.edu",
+      "contact_email_status": "estimated_by_institution_domain",
+      "profile_url": "https://openalex.org/A5066892638",
+      "orcid": "Not available",
+      "research_focus": "self-supervised representation learning robotics",
+      "evidence": [
+        {
+          "title": "Language-Driven Representation Learning for Robotics",
+          "year": 2023,
+          "link": "https://doi.org/10.15607/rss.2023.xix.032"
+        }
+      ],
+      "why_match": "Your 2023 publication 'Language-Driven Representation Learning for Robotics' directly aligns with my thesis on self-supervised representation learning for autonomous drone navigation, particularly in developing sample-efficient learning methods. My IROS 2024 publication on policy gradient methods for quadrotor control demonstrates practical experience with the reinforcement learning frameworks that complement your language-driven robotics research.",
+      "tier": "reach",
+      "tier_rationale": "While the PI's h-index (13) would typically suggest a lower tier, Stanford University is a top-tier institution per the guidelines, and the student's elite academic background from IIT Madras with strong publications makes this a reach due to the institution's prestige and competitiveness.",
+      "linked_phd_program_url": "https://www.google.com/search?q=Stanford+University+self-supervised+representation+learning+robotics+PhD+program+positions"
+    },
+    {
+      "name": "Jueming Hu",
+      "institution": "Arizona State University",
+      "country": "US",
+      "contact_email": "jueming.hu@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5071746842",
+      "orcid": "Not available",
+      "research_focus": "PPO autonomous drone navigation",
+      "evidence": [
+        {
+          "title": "Obstacle Avoidance for UAS in Continuous Action Space Using Deep Reinforcement Learning",
+          "year": 2022,
+          "link": "https://doi.org/10.1109/access.2022.3201962"
+        }
+      ],
+      "why_match": "Your 2022 paper on deep reinforcement learning for UAS obstacle avoidance in continuous action spaces directly aligns with my IROS 2024 publication on sample-efficient policy gradients for quadrotor control. My thesis work on self-supervised representation learning for autonomous drone navigation could extend your research by addressing perception challenges in reinforcement learning frameworks for UAS.",
+      "tier": "safety",
+      "tier_rationale": "Student from elite institution (IIT Madras) with strong publication record, while PI has h-index of 10 at mid-tier university (ASU), making this a highly accessible opportunity per tier guidelines.",
+      "linked_phd_program_url": "https://www.google.com/search?q=Arizona+State+University+PPO+autonomous+drone+navigation+PhD+program+positions"
+    },
+    {
+      "name": "Yasser Shoukry",
+      "institution": "University of California, Irvine",
+      "country": "US",
+      "contact_email": "yasser.shoukry@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5019844918",
+      "orcid": "Not available",
+      "research_focus": "PPO autonomous drone navigation",
+      "evidence": [
+        {
+          "title": "AirPilot Drone Controller: Enabling Interpretable On-the-Fly PID Auto-Tuning via DRL",
+          "year": 2024,
+          "link": "https://doi.org/10.1109/iccasit62299.2024.10828099"
+        }
+      ],
+      "why_match": "Your recent work on 'AirPilot Drone Controller' using DRL for PID auto-tuning directly aligns with my IROS 2024 publication on sample-efficient policy gradient methods for quadrotor control. My thesis on self-supervised representation learning for autonomous drone navigation complements your focus on interpretable learning systems for aerial robotics.",
+      "tier": "target",
+      "tier_rationale": "Student from elite institution (IIT Madras) with strong publication matches well with PI at strong research university (UC Irvine) with solid h-index (21), representing an appropriate target given comparable academic profiles.",
+      "linked_phd_program_url": "https://www.google.com/search?q=University+of+California,+Irvine+PPO+autonomous+drone+navigation+PhD+program+positions"
+    },
+    {
+      "name": "Tony Z. Zhao",
+      "institution": "Stanford University",
+      "country": "US",
+      "contact_email": "tony.zhao@stanford.edu",
+      "contact_email_status": "estimated_by_institution_domain",
+      "profile_url": "https://openalex.org/A5041306134",
+      "orcid": "Not available",
+      "research_focus": "self-supervised representation learning robotics",
+      "evidence": [
+        {
+          "title": "Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware",
+          "year": 2023,
+          "link": "https://doi.org/10.15607/rss.2023.xix.016"
+        }
+      ],
+      "why_match": "My thesis on self-supervised representation learning for autonomous drone navigation directly aligns with your work on 'Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware', particularly in developing sample-efficient learning methods for robotic systems. My IROS publication on sample-efficient policy gradients for quadrotor control demonstrates applicable experience in reinforcement learning for real-world robotic control problems using PyTorch and ROS.",
+      "tier": "reach",
+      "tier_rationale": "While the PI's h-index (11) falls in the safety range, Stanford University is a top-tier institution per the guidelines, making this a reach opportunity for even an elite-tier student from IIT Madras.",
+      "linked_phd_program_url": "https://www.google.com/search?q=Stanford+University+self-supervised+representation+learning+robotics+PhD+program+positions"
+    },
+    {
+      "name": "Rodrigo Toro Icarte",
+      "institution": "University of Toronto",
+      "country": "CA",
+      "contact_email": "rodrigo.icarte@utoronto.ca",
+      "contact_email_status": "estimated_by_institution_domain",
+      "profile_url": "https://openalex.org/A5006732213",
+      "orcid": "Not available",
+      "research_focus": "reinforcement learning robot vision",
+      "evidence": [
+        {
+          "title": "Reward Machines: Exploiting Reward Function Structure in Reinforcement Learning",
+          "year": 2022,
+          "link": "https://doi.org/10.1613/jair.1.12440"
+        }
+      ],
+      "why_match": "Your work on Reward Machines for structured reinforcement learning directly complements my thesis on self-supervised representation learning for autonomous drones, where I developed sample-efficient policy gradients for quadrotor control. My IROS publication on RL-based drone navigation aligns with your focus on exploiting reward structure, offering a technical foundation to extend your research into embodied AI systems.",
+      "tier": "reach",
+      "tier_rationale": "While the PI's h-index (11) is below the typical reach threshold, the University of Toronto is a top-tier institution globally, and the student's elite academic background (IIT Madras with high GPA and IROS publication) justifies this as a competitive reach application despite the PI's early-career status.",
+      "linked_phd_program_url": "https://www.google.com/search?q=University+of+Toronto+reinforcement+learning+robot+vision+PhD+program+positions"
+    },
+    {
+      "name": "Heidi Lindroth",
+      "institution": "Regenstrief Institute",
+      "country": "US",
+      "contact_email": "heidi.lindroth@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5012801633",
+      "orcid": "Not available",
+      "research_focus": "computer vision healthcare robotics",
+      "evidence": [
+        {
+          "title": "Applied Artificial Intelligence in Healthcare: A Review of Computer Vision Technology Application in Hospital Settings",
+          "year": 2024,
+          "link": "https://doi.org/10.3390/jimaging10040081"
+        }
+      ],
+      "why_match": "Your 2024 review on computer vision applications in hospital settings directly aligns with my IIT Madras thesis on self-supervised representation learning for autonomous systems. My IROS publication on sample-efficient reinforcement learning for quadrotor control demonstrates applicable expertise in developing robust vision-based navigation systems that could translate to healthcare robotics applications.",
+      "tier": "target",
+      "tier_rationale": "The student comes from an elite institution (IIT Madras) with strong publications, while the PI has an h-index of 21 at a reputable research institute, creating an appropriate academic match without significant imbalance in prestige or research output.",
+      "linked_phd_program_url": "https://www.google.com/search?q=Regenstrief+Institute+computer+vision+healthcare+robotics+PhD+program+positions"
+    },
+    {
+      "name": "J\u00e1n Drgo\u0148a",
+      "institution": "Pacific Northwest National Laboratory",
+      "country": "US",
+      "contact_email": "j\u00e1n.drgo\u0148a@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5019969465",
+      "orcid": "Not available",
+      "research_focus": "sample-efficient policy gradient methods",
+      "evidence": [
+        {
+          "title": "Learning Constrained Parametric Differentiable Predictive Control Policies With Guarantees",
+          "year": 2024,
+          "link": "https://doi.org/10.1109/tsmc.2024.3368026"
+        }
+      ],
+      "why_match": "Your recent work on 'Learning Constrained Parametric Differentiable Predictive Control Policies With Guarantees' directly aligns with my thesis on self-supervised representation learning for autonomous drone navigation, particularly in developing sample-efficient control policies. My IROS publication on policy gradient methods for quadrotor control demonstrates practical experience with reinforcement learning frameworks that could extend your differentiable predictive control research to real-world robotic systems.",
+      "tier": "target",
+      "tier_rationale": "The student comes from an elite institution (IIT Madras) with strong research credentials, while the PI has an h-index of 21 at a national laboratory, representing a solid research profile that matches the student's academic tier.",
+      "linked_phd_program_url": "https://www.google.com/search?q=Pacific+Northwest+National+Laboratory+sample-efficient+policy+gradient+methods+PhD+program+positions"
+    },
+    {
+      "name": "Xingyu Zhou",
+      "institution": "Walker (United States)",
+      "country": "US",
+      "contact_email": "xingyu.zhou@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5079838853",
+      "orcid": "Not available",
+      "research_focus": "autonomous vehicle control systems",
+      "evidence": [
+        {
+          "title": "Robust Adaptive Path-Tracking Control of Autonomous Ground Vehicles With Considerations of Steering System Backlash",
+          "year": 2022,
+          "link": "https://doi.org/10.1109/tiv.2022.3146085"
+        }
+      ],
+      "why_match": "Your 2022 work on robust adaptive path-tracking control for autonomous vehicles aligns directly with my IROS 2024 publication on sample-efficient policy gradients for quadrotor control, as both address robustness challenges in autonomous navigation. My thesis on self-supervised representation learning for drone navigation could extend your backlash compensation methods to aerial systems using similar reinforcement learning frameworks.",
+      "tier": "target",
+      "tier_rationale": "The student's elite academic background (IIT Madras with high GPA and IROS publication) matches well with a PI at a strong US institution (Walker) with solid h-index (20), making this a target-tier alignment.",
+      "linked_phd_program_url": "https://www.google.com/search?q=Walker+(United+States)+autonomous+vehicle+control+systems+PhD+program+positions"
+    },
+    {
+      "name": "Anthony Simeonov",
+      "institution": "Massachusetts Institute of Technology",
+      "country": "US",
+      "contact_email": "anthony.simeonov@mit.edu",
+      "contact_email_status": "estimated_by_institution_domain",
+      "profile_url": "https://openalex.org/A5026449499",
+      "orcid": "Not available",
+      "research_focus": "self-supervised representation learning robotics",
+      "evidence": [
+        {
+          "title": "Neural Descriptor Fields: SE(3)-Equivariant Object Representations for Manipulation",
+          "year": 2022,
+          "link": "https://doi.org/10.1109/icra46639.2022.9812146"
+        }
+      ],
+      "why_match": "My thesis on self-supervised representation learning for autonomous drone navigation directly aligns with your work on Neural Descriptor Fields, particularly in developing SE(3)-equivariant representations for robotic systems. My IROS publication on sample-efficient policy gradient methods for quadrotor control demonstrates practical experience with the reinforcement learning frameworks that could extend your manipulation research to aerial applications.",
+      "tier": "reach",
+      "tier_rationale": "While the PI's h-index (11) would normally suggest a lower tier, MIT is a top-tier institution per the guidelines, and the student's elite academic background from IIT Madras with strong publications makes this a reach application due to institutional prestige rather than PI seniority.",
+      "linked_phd_program_url": "https://www.google.com/search?q=Massachusetts+Institute+of+Technology+self-supervised+representation+learning+robotics+PhD+program+positions"
+    },
+    {
+      "name": "Anwar Haque",
+      "institution": "Western University",
+      "country": "CA",
+      "contact_email": "anwar.haque@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5011011621",
+      "orcid": "Not available",
+      "research_focus": "autonomous vehicle control systems",
+      "evidence": [
+        {
+          "title": "Path Planning for Autonomous Drones: Challenges and Future Directions",
+          "year": 2023,
+          "link": "https://doi.org/10.3390/drones7030169"
+        }
+      ],
+      "why_match": "Your 2023 publication on path planning challenges for autonomous drones directly aligns with my IIT Madras thesis on self-supervised representation learning for drone navigation. My IROS 2024 paper on sample-efficient policy gradient methods for quadrotor control demonstrates practical experience with the reinforcement learning approaches your research identifies as future directions.",
+      "tier": "target",
+      "tier_rationale": "Student from elite institution (IIT Madras) matches well with PI at strong research university (Western University) with solid h-index (19) within the target range of 15-30, representing an appropriate academic alignment.",
+      "linked_phd_program_url": "https://www.google.com/search?q=Western+University+autonomous+vehicle+control+systems+PhD+program+positions"
+    },
+    {
+      "name": "Runzhuo Ma",
+      "institution": "Cedars-Sinai Medical Center",
+      "country": "US",
+      "contact_email": "runzhuo.ma@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5073157502",
+      "orcid": "Not available",
+      "research_focus": "computer vision healthcare robotics",
+      "evidence": [
+        {
+          "title": "Clinical applications of artificial intelligence in robotic surgery",
+          "year": 2024,
+          "link": "https://doi.org/10.1007/s11701-024-01867-0"
+        }
+      ],
+      "why_match": "My thesis on self-supervised representation learning for autonomous drone navigation directly aligns with your work on clinical AI applications in robotic surgery, particularly in developing sample-efficient learning methods for real-world systems. My IROS publication on policy gradient methods for quadrotor control demonstrates applicable experience in reinforcement learning for robotic control that could translate to surgical robotics.",
+      "tier": "target",
+      "tier_rationale": "The student comes from an elite institution (IIT Madras) with strong publications, while the PI has a solid h-index (19) at a reputable medical research center, making this a well-matched target opportunity.",
+      "linked_phd_program_url": "https://www.google.com/search?q=Cedars-Sinai+Medical+Center+computer+vision+healthcare+robotics+PhD+program+positions"
+    },
+    {
+      "name": "Yong Wang",
+      "institution": "Binghamton University",
+      "country": "US",
+      "contact_email": "yong.wang@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5100424528",
+      "orcid": "Not available",
+      "research_focus": "autonomous vehicle control systems",
+      "evidence": [
+        {
+          "title": "Revisiting the Control Systems of Autonomous Vehicles in the Agricultural Sector: A Systematic Literature Review",
+          "year": 2025,
+          "link": "https://doi.org/10.1109/access.2025.3555142"
+        }
+      ],
+      "why_match": "Your systematic review on autonomous agricultural vehicle control systems aligns directly with my IROS 2024 publication on sample-efficient quadrotor control policies. My thesis work on self-supervised representation learning for drone navigation could extend your research into more data-efficient learning approaches for agricultural robotics. My expertise in ROS and reinforcement learning would directly contribute to implementing and testing novel control systems in your lab.",
+      "tier": "target",
+      "tier_rationale": "Student from elite institution (IIT Madras) matches well with PI at strong research university (Binghamton) with solid h-index (19), representing an appropriate academic alignment for a target school.",
+      "linked_phd_program_url": "https://www.google.com/search?q=Binghamton+University+autonomous+vehicle+control+systems+PhD+program+positions"
+    },
+    {
+      "name": "Raj Bridgelall",
+      "institution": "North Dakota State University",
+      "country": "US",
+      "contact_email": "raj.bridgelall@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5017410083",
+      "orcid": "Not available",
+      "research_focus": "autonomous vehicle control systems",
+      "evidence": [
+        {
+          "title": "Technology Developments and Impacts of Connected and Autonomous Vehicles: An Overview",
+          "year": 2022,
+          "link": "https://doi.org/10.3390/smartcities5010022"
+        }
+      ],
+      "why_match": "Your 2022 overview on connected and autonomous vehicles aligns with my thesis on self-supervised representation learning for drone navigation, particularly in shared perception and control challenges. My IROS publication on sample-efficient policy gradients for quadrotors demonstrates direct experience with the reinforcement learning and robotics stack needed for your autonomous systems research.",
+      "tier": "target",
+      "tier_rationale": "The student's elite academic background (IIT Madras with high GPA and IROS publication) matches well with the PI's solid research profile (h-index 20 at a strong research institution), making this a target-level alignment.",
+      "linked_phd_program_url": "https://www.google.com/search?q=North+Dakota+State+University+autonomous+vehicle+control+systems+PhD+program+positions"
+    },
+    {
+      "name": "H\u00e9ctor Guti\u00e9rrez",
+      "institution": "Florida Institute of Technology",
+      "country": "US",
+      "contact_email": "h\u00e9ctor.guti\u00e9rrez@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5025897864",
+      "orcid": "Not available",
+      "research_focus": "ROS-based drone control",
+      "evidence": [
+        {
+          "title": "Precision Landing of a Quadcopter Drone by Smartphone Video Guidance Sensor in a GPS-Denied Environment",
+          "year": 2023,
+          "link": "https://doi.org/10.3390/s23041934"
+        }
+      ],
+      "why_match": "Your 2023 paper on precision quadcopter landing in GPS-denied environments aligns directly with my IIT Madras thesis on self-supervised representation learning for autonomous drone navigation. My IROS publication on sample-efficient quadrotor control policy gradients demonstrates complementary expertise in reinforcement learning approaches for drone systems that could extend your vision-based guidance research.",
+      "tier": "target",
+      "tier_rationale": "Student from elite institution (IIT Madras) matches well with PI at strong research institution (Florida Tech) with solid h-index (19), representing an appropriate academic profile alignment.",
+      "linked_phd_program_url": "https://www.google.com/search?q=Florida+Institute+of+Technology+ROS-based+drone+control+PhD+program+positions"
+    },
+    {
+      "name": "Michael C.F. Bazzocchi",
+      "institution": "Clarkson University",
+      "country": "US",
+      "contact_email": "michael.bazzocchi@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5069962841",
+      "orcid": "Not available",
+      "research_focus": "deep reinforcement learning quadrotor control",
+      "evidence": [
+        {
+          "title": "Space Manipulator Collision Avoidance Using a Deep Reinforcement Learning Control",
+          "year": 2023,
+          "link": "https://doi.org/10.3390/aerospace10090778"
+        }
+      ],
+      "why_match": "Your 2023 publication on deep reinforcement learning for space manipulator collision avoidance aligns directly with my IROS work on sample-efficient policy gradients for quadrotor control. My thesis on self-supervised representation learning for autonomous drone navigation could extend your research to terrestrial robotics applications using similar reinforcement learning frameworks.",
+      "tier": "safety",
+      "tier_rationale": "Student from elite institution (IIT Madras) with strong publication record, while PI has h-index of 12 at Clarkson University (mid-tier US institution), making this highly accessible relative to student's academic profile.",
+      "linked_phd_program_url": "https://www.google.com/search?q=Clarkson+University+deep+reinforcement+learning+quadrotor+control+PhD+program+positions"
+    },
+    {
+      "name": "Zhuangdi Zhu",
+      "institution": "Michigan State University",
+      "country": "US",
+      "contact_email": "zhuangdi.zhu@msu.edu",
+      "contact_email_status": "estimated_by_institution_domain",
+      "profile_url": "https://openalex.org/A5079428801",
+      "orcid": "Not available",
+      "research_focus": "reinforcement learning robot vision",
+      "evidence": [
+        {
+          "title": "Transfer Learning in Deep Reinforcement Learning: A Survey",
+          "year": 2023,
+          "link": "https://doi.org/10.1109/tpami.2023.3292075"
+        }
+      ],
+      "why_match": "Your 2023 survey on transfer learning in deep reinforcement learning directly aligns with my IROS 2024 publication on sample-efficient policy gradients for quadrotor control, where I developed self-supervised representation learning techniques for drone navigation. My expertise in PyTorch and ROS implementation would allow me to extend your survey's theoretical frameworks into practical applications for autonomous systems.",
+      "tier": "safety",
+      "tier_rationale": "Student from elite institution (IIT Madras) with strong publication record, while PI has h-index of 10 at Michigan State University, making this a highly accessible opportunity per safety tier guidelines.",
+      "linked_phd_program_url": "https://www.google.com/search?q=Michigan+State+University+reinforcement+learning+robot+vision+PhD+program+positions"
+    },
+    {
+      "name": "Jiahao Wu",
+      "institution": "University of Florida",
+      "country": "US",
+      "contact_email": "jiahao.wu@ufl.edu",
+      "contact_email_status": "estimated_by_institution_domain",
+      "profile_url": "https://openalex.org/A5102991686",
+      "orcid": "Not available",
+      "research_focus": "PPO autonomous drone navigation",
+      "evidence": [
+        {
+          "title": "LLM-Driven Pareto-Optimal Multi-Mode Reinforcement Learning for Adaptive UAV Navigation in Urban Wind Environments",
+          "year": 2025,
+          "link": "https://doi.org/10.1109/access.2025.3611336"
+        }
+      ],
+      "why_match": "My thesis on self-supervised representation learning for autonomous drone navigation directly aligns with your work on LLM-driven multi-mode reinforcement learning for adaptive UAV navigation. My IROS publication on sample-efficient policy gradient methods for quadrotor control demonstrates practical experience with the reinforcement learning and UAV control challenges your research addresses.",
+      "tier": "target",
+      "tier_rationale": "The student comes from an elite institution (IIT Madras) with strong publications, while the PI has an h-index of 16 at a strong research university (University of Florida), making this a well-matched target opportunity.",
+      "linked_phd_program_url": "https://www.google.com/search?q=University+of+Florida+PPO+autonomous+drone+navigation+PhD+program+positions"
+    },
+    {
+      "name": "Chang Che",
+      "institution": "George Washington University",
+      "country": "US",
+      "contact_email": "chang.che@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5102706631",
+      "orcid": "Not available",
+      "research_focus": "computer vision healthcare robotics",
+      "evidence": [
+        {
+          "title": "Intelligent robotic control system based on computer vision technology",
+          "year": 2024,
+          "link": "https://doi.org/10.54254/2755-2721/64/20241373"
+        }
+      ],
+      "why_match": "Your 2024 publication on intelligent robotic control systems using computer vision aligns directly with my IIT Madras thesis on self-supervised representation learning for autonomous drone navigation. My IROS paper on sample-efficient policy gradients for quadrotor control demonstrates practical experience in reinforcement learning for robotic systems that would complement your computer vision research.",
+      "tier": "safety",
+      "tier_rationale": "While the student comes from an elite institution (IIT Madras), the PI has an h-index of 16 at George Washington University, which falls within the safety tier range (8-15 h-index) and represents a highly accessible opportunity for an elite student.",
+      "linked_phd_program_url": "https://www.google.com/search?q=George+Washington+University+computer+vision+healthcare+robotics+PhD+program+positions"
+    },
+    {
+      "name": "Mohammad Jafari",
+      "institution": "Columbus State University",
+      "country": "US",
+      "contact_email": "mohammad.jafari@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5007991403",
+      "orcid": "Not available",
+      "research_focus": "autonomous vehicle control systems",
+      "evidence": [
+        {
+          "title": "Machine Learning-Based Control of Autonomous Vehicles for Solar Panel Cleaning Systems in Agricultural Solar Farms",
+          "year": 2024,
+          "link": "https://doi.org/10.3390/agriengineering6020081"
+        }
+      ],
+      "why_match": "Your recent work on machine learning-based control for autonomous vehicles in agricultural solar farms directly aligns with my IROS 2024 publication on sample-efficient policy gradient methods for quadrotor control. My thesis on self-supervised representation learning for drone navigation would complement your research by providing novel approaches for perception and control in autonomous systems.",
+      "tier": "safety",
+      "tier_rationale": "While the student comes from an elite institution (IIT Madras) with strong publications, Professor Jafari has an h-index of 16 at Columbus State University, which is a mid-tier institution relative to the student's academic background, making this a highly accessible opportunity.",
+      "linked_phd_program_url": "https://www.google.com/search?q=Columbus+State+University+autonomous+vehicle+control+systems+PhD+program+positions"
+    },
+    {
+      "name": "Anthony Brohan",
+      "institution": "Google (United States)",
+      "country": "US",
+      "contact_email": "anthony.brohan@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5063513636",
+      "orcid": "Not available",
+      "research_focus": "reinforcement learning robot vision",
+      "evidence": [
+        {
+          "title": "RT-1: Robotics Transformer for Real-World Control at Scale",
+          "year": 2023,
+          "link": "https://doi.org/10.15607/rss.2023.xix.025"
+        }
+      ],
+      "why_match": "My thesis on self-supervised representation learning for autonomous drone navigation directly aligns with your RT-1 work on scaling real-world robot control through transformer architectures. My IROS publication on sample-efficient policy gradients for quadrotors demonstrates practical experience with the reinforcement learning and robotics challenges your research addresses.",
+      "tier": "safety",
+      "tier_rationale": "While the student comes from an elite academic background (IIT Madras), the PI has an h-index of 9 (within the 8-15 safety range) and works at Google rather than a traditional academic institution, making this a highly accessible opportunity despite the prestigious industry affiliation.",
+      "linked_phd_program_url": "https://www.google.com/search?q=Google+(United+States)+reinforcement+learning+robot+vision+PhD+program+positions"
+    },
+    {
+      "name": "Yuzhe Qin",
+      "institution": "University of California, San Diego",
+      "country": "US",
+      "contact_email": "yuzhe.qin@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5060146466",
+      "orcid": "Not available",
+      "research_focus": "reinforcement learning robot vision",
+      "evidence": [
+        {
+          "title": "DexMV: Imitation Learning for\u00a0Dexterous Manipulation from\u00a0Human Videos",
+          "year": 2022,
+          "link": "https://doi.org/10.1007/978-3-031-19842-7_33"
+        }
+      ],
+      "why_match": "Your work on DexMV's imitation learning framework for dexterous manipulation from human videos aligns directly with my thesis on self-supervised representation learning for autonomous systems. My IROS publication on sample-efficient policy gradients for quadrotor control demonstrates complementary expertise in reinforcement learning and robotics, which could extend your methods to aerial platforms.",
+      "tier": "target",
+      "tier_rationale": "The student's elite academic background (IIT Madras with high GPA and IROS publication) matches well with the PI's solid research profile (h-index 16 at UCSD, a strong research institution), making this a target-level alignment.",
+      "linked_phd_program_url": "https://www.google.com/search?q=University+of+California,+San+Diego+reinforcement+learning+robot+vision+PhD+program+positions"
+    },
+    {
+      "name": "Bin Hu",
+      "institution": "University of Illinois Urbana-Champaign",
+      "country": "US",
+      "contact_email": "bin.hu@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5101513622",
+      "orcid": "Not available",
+      "research_focus": "sample-efficient policy gradient methods",
+      "evidence": [
+        {
+          "title": "Toward a Theoretical Foundation of Policy Optimization for Learning Control Policies",
+          "year": 2023,
+          "link": "https://doi.org/10.1146/annurev-control-042920-020021"
+        }
+      ],
+      "why_match": "Your 2023 theoretical foundation paper on policy optimization directly aligns with my IROS 2024 work on sample-efficient policy gradients for quadrotor control. My thesis on self-supervised representation learning for drone navigation would benefit from your theoretical RL framework to improve autonomous navigation robustness.",
+      "tier": "safety",
+      "tier_rationale": "Student from elite institution (IIT Madras) with strong publication record, while PI has h-index of 14 at a top institution but below target range for elite student profile, making this highly accessible.",
+      "linked_phd_program_url": "https://www.google.com/search?q=University+of+Illinois+Urbana-Champaign+sample-efficient+policy+gradient+methods+PhD+program+positions"
+    },
+    {
+      "name": "Yanli Liu",
+      "institution": "University of California, Los Angeles",
+      "country": "US",
+      "contact_email": "yanli.liu@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5100394338",
+      "orcid": "Not available",
+      "research_focus": "sample-efficient policy gradient methods",
+      "evidence": [
+        {
+          "title": "An Improved Analysis of (Variance-Reduced) Policy Gradient and Natural Policy Gradient Methods",
+          "year": 2022,
+          "link": "https://doi.org/10.48550/arxiv.2211.07937"
+        }
+      ],
+      "why_match": "Your 2022 paper on variance-reduced policy gradient methods directly complements my IROS 2024 work on sample-efficient quadrotor control, as both address core optimization challenges in reinforcement learning. My thesis on self-supervised representation learning for drone navigation could extend your analysis framework to real-world robotic systems with high-dimensional sensory inputs.",
+      "tier": "target",
+      "tier_rationale": "While the student comes from an elite institution (IIT Madras) with strong publications, Professor Liu's h-index of 14 at UCLA (a top institution but not requiring reach-tier h-index) and specific technical alignment make this a well-matched target rather than a reach, despite the institution's prestige.",
+      "linked_phd_program_url": "https://www.google.com/search?q=University+of+California,+Los+Angeles+sample-efficient+policy+gradient+methods+PhD+program+positions"
+    },
+    {
+      "name": "Jaehoon Chung",
+      "institution": "University of Victoria",
+      "country": "CA",
+      "contact_email": "jaehoon.chung@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5003113894",
+      "orcid": "Not available",
+      "research_focus": "PPO autonomous drone navigation",
+      "evidence": [
+        {
+          "title": "Learning team-based navigation: a review of deep reinforcement learning techniques for multi-agent pathfinding",
+          "year": 2024,
+          "link": "https://doi.org/10.1007/s10462-023-10670-6"
+        }
+      ],
+      "why_match": "Your 2024 review on deep reinforcement learning for multi-agent pathfinding directly aligns with my IROS publication on sample-efficient policy gradients for quadrotor control. My thesis work in self-supervised representation learning for autonomous drone navigation could extend your multi-agent research to unsupervised perception modules for coordinated navigation.",
+      "tier": "safety",
+      "tier_rationale": "Student from elite institution (IIT Madras) with strong publication record, while PI has h-index of 11 at mid-tier university (University of Victoria), making this a highly accessible opportunity per safety tier guidelines.",
+      "linked_phd_program_url": "https://www.google.com/search?q=University+of+Victoria+PPO+autonomous+drone+navigation+PhD+program+positions"
+    },
+    {
+      "name": "Kim\u2010Doang Nguyen",
+      "institution": "Florida Institute of Technology",
+      "country": "US",
+      "contact_email": "kim\u2010doang.nguyen@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5062903089",
+      "orcid": "Not available",
+      "research_focus": "PPO autonomous drone navigation",
+      "evidence": [
+        {
+          "title": "A Robust Strategy for UAV Autonomous Landing on a Moving Platform under Partial Observability",
+          "year": 2024,
+          "link": "https://doi.org/10.3390/drones8060232"
+        }
+      ],
+      "why_match": "My thesis on self-supervised representation learning for autonomous drone navigation directly aligns with your 2024 publication on UAV autonomous landing under partial observability, particularly in addressing perception challenges in dynamic environments. My IROS 2024 paper on sample-efficient policy gradient methods for quadrotor control demonstrates applicable expertise in reinforcement learning for UAV control systems that could extend your robust landing strategies.",
+      "tier": "safety",
+      "tier_rationale": "The student comes from an elite institution (IIT Madras) with strong publications, while the PI has an h-index of 12 at a mid-tier US institution (Florida Institute of Technology), making this a highly accessible opportunity for the student.",
+      "linked_phd_program_url": "https://www.google.com/search?q=Florida+Institute+of+Technology+PPO+autonomous+drone+navigation+PhD+program+positions"
+    },
+    {
+      "name": "Umar Ghaffar",
+      "institution": "Cedars-Sinai Medical Center",
+      "country": "US",
+      "contact_email": "umar.ghaffar@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5060059183",
+      "orcid": "Not available",
+      "research_focus": "computer vision healthcare robotics",
+      "evidence": [
+        {
+          "title": "Clinical applications of artificial intelligence in robotic surgery",
+          "year": 2024,
+          "link": "https://doi.org/10.1007/s11701-024-01867-0"
+        }
+      ],
+      "why_match": "Your recent publication on clinical AI applications in robotic surgery aligns with my thesis work on self-supervised representation learning for autonomous systems, particularly in bridging perception and control. My IROS paper on sample-efficient policy gradients for quadrotors demonstrates relevant experience in developing robust learning methods for real-world robotic applications.",
+      "tier": "safety",
+      "tier_rationale": "The student comes from an elite institution (IIT Madras) with strong publications, while the PI has an h-index of 11 at a medical-focused institution, making this a highly accessible opportunity relative to the student's academic profile.",
+      "linked_phd_program_url": "https://www.google.com/search?q=Cedars-Sinai+Medical+Center+computer+vision+healthcare+robotics+PhD+program+positions"
+    },
+    {
+      "name": "Tengchan Zeng",
+      "institution": "Ford Motor Company (United States)",
+      "country": "US",
+      "contact_email": "tengchan.zeng@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5024463415",
+      "orcid": "Not available",
+      "research_focus": "autonomous vehicle control systems",
+      "evidence": [
+        {
+          "title": "Federated Learning on the Road Autonomous Controller Design for Connected and Autonomous Vehicles",
+          "year": 2022,
+          "link": "https://doi.org/10.1109/twc.2022.3183996"
+        }
+      ],
+      "why_match": "Your 2022 publication on federated learning for autonomous controller design aligns directly with my IROS 2024 work on sample-efficient policy gradients for quadrotor control, as both address efficient learning in autonomous systems. My expertise in reinforcement learning and ROS would enable me to contribute to your research on connected and autonomous vehicles while expanding my work to ground vehicle applications.",
+      "tier": "safety",
+      "tier_rationale": "Student from elite institution (IIT Madras) with strong publication record, while PI has h-index of 12 (within safety range of 8-15) and works in industry rather than academic institution, making this highly accessible despite student's strong background.",
+      "linked_phd_program_url": "https://www.google.com/search?q=Ford+Motor+Company+(United+States)+autonomous+vehicle+control+systems+PhD+program+positions"
+    },
+    {
+      "name": "Stephanie Milani",
+      "institution": "Carnegie Mellon University",
+      "country": "US",
+      "contact_email": "stephanie.milani@cmu.edu",
+      "contact_email_status": "estimated_by_institution_domain",
+      "profile_url": "https://openalex.org/A5066795279",
+      "orcid": "Not available",
+      "research_focus": "reinforcement learning robot vision",
+      "evidence": [
+        {
+          "title": "Explainable Reinforcement Learning: A Survey and Comparative Review",
+          "year": 2023,
+          "link": "https://doi.org/10.1145/3616864"
+        }
+      ],
+      "why_match": "Your 2023 survey on explainable reinforcement learning aligns directly with my IROS 2024 publication on sample-efficient policy gradients for quadrotor control, where interpretability was a key challenge. My thesis on self-supervised representation learning for drone navigation could benefit from your frameworks for making RL decisions transparent in autonomous systems.",
+      "tier": "safety",
+      "tier_rationale": "Student from elite institution (IIT Madras) with strong publication record, while PI has h-index of 10 at mid-tier institution relative to student's profile, making this highly accessible.",
+      "linked_phd_program_url": "https://www.google.com/search?q=Carnegie+Mellon+University+reinforcement+learning+robot+vision+PhD+program+positions"
+    },
+    {
+      "name": "Parham Nooralishahi",
+      "institution": "Universit\u00e9 Laval",
+      "country": "CA",
+      "contact_email": "parham.nooralishahi@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5051488599",
+      "orcid": "Not available",
+      "research_focus": "ROS-based drone control",
+      "evidence": [
+        {
+          "title": "Drone-Enabled Multimodal Platform for Inspection of Industrial Components",
+          "year": 2022,
+          "link": "https://doi.org/10.1109/access.2022.3167393"
+        }
+      ],
+      "why_match": "Your 2022 paper on multimodal drone inspection platforms directly aligns with my IIT Madras thesis on self-supervised representation learning for autonomous drone navigation. My IROS publication on sample-efficient quadrotor control using PyTorch and reinforcement learning could extend your multimodal framework to more complex industrial environments.",
+      "tier": "safety",
+      "tier_rationale": "Student from elite institution (IIT Madras) with strong publication record, while PI has h-index of 10 at mid-tier Canadian university, making this highly accessible despite student's elite background.",
+      "linked_phd_program_url": "https://www.google.com/search?q=Universit\u00e9+Laval+ROS-based+drone+control+PhD+program+positions"
+    },
+    {
+      "name": "Ahshanul Haque",
+      "institution": "New Mexico Institute of Mining and Technology",
+      "country": "US",
+      "contact_email": "ahshanul.haque@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5059555750",
+      "orcid": "Not available",
+      "research_focus": "PPO autonomous drone navigation",
+      "evidence": [
+        {
+          "title": "A Comprehensive Review of Classification and Application of Machine Learning in Drone Technology",
+          "year": 2023,
+          "link": "https://doi.org/10.20944/preprints202306.1901.v1"
+        }
+      ],
+      "why_match": "Your comprehensive review on machine learning applications in drone technology directly aligns with my thesis on self-supervised representation learning for autonomous drone navigation. My IROS publication on sample-efficient policy gradient methods for quadrotor control demonstrates practical experience with the exact reinforcement learning techniques discussed in your work.",
+      "tier": "safety",
+      "tier_rationale": "Student from elite institution (IIT Madras) with strong publication record, while PI has h-index of 9 at mid-tier university (New Mexico Tech), making this a highly accessible opportunity.",
+      "linked_phd_program_url": "https://www.google.com/search?q=New+Mexico+Institute+of+Mining+and+Technology+PPO+autonomous+drone+navigation+PhD+program+positions"
+    },
+    {
+      "name": "Milan Parmar",
+      "institution": "Mississippi State University",
+      "country": "US",
+      "contact_email": "milan.parmar@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5037444970",
+      "orcid": "Not available",
+      "research_focus": "reinforcement learning robot vision",
+      "evidence": [
+        {
+          "title": "A review of convolutional neural networks in computer vision",
+          "year": 2024,
+          "link": "https://doi.org/10.1007/s10462-024-10721-6"
+        }
+      ],
+      "why_match": "Your 2024 review paper on convolutional neural networks in computer vision directly aligns with my IIT Madras thesis on self-supervised representation learning for autonomous drone navigation, where I implemented CNN architectures for visual navigation tasks. My IROS publication on sample-efficient policy gradient methods for quadrotor control demonstrates practical experience with the vision-based reinforcement learning approaches discussed in your work.",
+      "tier": "safety",
+      "tier_rationale": "The student comes from an elite institution (IIT Madras) with strong publications, while the PI has an h-index of 9 at a mid-tier US university, making this a highly accessible opportunity relative to the student's academic profile.",
+      "linked_phd_program_url": "https://www.google.com/search?q=Mississippi+State+University+reinforcement+learning+robot+vision+PhD+program+positions"
+    },
+    {
+      "name": "John Rakoczy",
+      "institution": "Marshall Space Flight Center",
+      "country": "US",
+      "contact_email": "john.rakoczy@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5039965562",
+      "orcid": "Not available",
+      "research_focus": "ROS-based drone control",
+      "evidence": [
+        {
+          "title": "Precision Landing of a Quadcopter Drone by Smartphone Video Guidance Sensor in a GPS-Denied Environment",
+          "year": 2023,
+          "link": "https://doi.org/10.3390/s23041934"
+        }
+      ],
+      "why_match": "Your 2023 publication on precision quadcopter landing in GPS-denied environments aligns directly with my IIT Madras thesis on self-supervised representation learning for autonomous drone navigation. My IROS paper on sample-efficient quadrotor control policy gradients demonstrates complementary expertise in reinforcement learning approaches for drone autonomy that could extend your vision-based guidance work.",
+      "tier": "safety",
+      "tier_rationale": "Student from elite institution (IIT Madras) with strong publication record, while PI has h-index of 9 at government research center (not academic institution), representing highly accessible opportunity per tier guidelines.",
+      "linked_phd_program_url": "https://www.google.com/search?q=Marshall+Space+Flight+Center+ROS-based+drone+control+PhD+program+positions"
+    },
+    {
+      "name": "Bo Liu",
+      "institution": "Software Engineering Institute",
+      "country": "US",
+      "contact_email": "bo.liu@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5100461695",
+      "orcid": "Not available",
+      "research_focus": "computer vision healthcare robotics",
+      "evidence": [
+        {
+          "title": "Intelligent robotic control system based on computer vision technology",
+          "year": 2024,
+          "link": "https://doi.org/10.54254/2755-2721/64/20241373"
+        }
+      ],
+      "why_match": "Your 2024 publication on intelligent robotic control systems using computer vision aligns directly with my IROS work on sample-efficient policy gradients for quadrotor control. My thesis on self-supervised representation learning for drone navigation would complement your vision-based robotic control research, particularly in developing more robust perception-action pipelines.",
+      "tier": "safety",
+      "tier_rationale": "Student from elite institution (IIT Madras) with strong publication record, while PI has h-index of 8 at a specialized research institute, representing a highly accessible opportunity for this student profile.",
+      "linked_phd_program_url": "https://www.google.com/search?q=Software+Engineering+Institute+computer+vision+healthcare+robotics+PhD+program+positions"
+    },
+    {
+      "name": "Liuwang Kang",
+      "institution": "University of Virginia",
+      "country": "US",
+      "contact_email": "liuwang.kang@academic-contacts.org",
+      "contact_email_status": "mock_placeholder",
+      "profile_url": "https://openalex.org/A5055908274",
+      "orcid": "Not available",
+      "research_focus": "autonomous vehicle control systems",
+      "evidence": [
+        {
+          "title": "A Data-Driven Control-Policy-Based Driving Safety Analysis System for Autonomous Vehicles",
+          "year": 2023,
+          "link": "https://doi.org/10.1109/jiot.2023.3244756"
+        }
+      ],
+      "why_match": "Your 2023 publication on data-driven control policy analysis for autonomous vehicles directly aligns with my IROS work on sample-efficient policy gradients for quadrotor control. My thesis on self-supervised representation learning for drone navigation could extend your safety analysis framework to aerial autonomous systems using similar reinforcement learning approaches.",
+      "tier": "safety",
+      "tier_rationale": "Student from elite institution (IIT Madras) with strong publication record, while PI has h-index of 8 at mid-tier university, representing highly accessible opportunity per tier guidelines.",
+      "linked_phd_program_url": "https://www.google.com/search?q=University+of+Virginia+autonomous+vehicle+control+systems+PhD+program+positions"
+    }
+  ]
+}

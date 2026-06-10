@@ -1,0 +1,35 @@
+{
+  "student_id": "ST106419",
+  "education_history": [
+    {
+      "degree": "Bachelor of Technology in Computer Science and Engineering",
+      "institution": "Indian Institute of Technology, Madras",
+      "gpa": "9.1/10.0",
+      "thesis": "Self-Supervised Representation Learning for Autonomous Drone Navigation"
+    }
+  ],
+  "skills": ["Python", "PyTorch", "Reinforcement Learning", "ROS", "Computer Vision", "C++"],
+  "projects": [
+    {
+      "title": "Autonomous Drone Racing in Simulation",
+      "description": "Implemented a deep reinforcement learning agent using PPO to navigate a quadrotor drone through a series of dynamic gates."
+    }
+  ],
+  "publications": [
+    {
+      "title": "Sample-Efficient Policy Gradient Methods for Quadrotor Control",
+      "venue": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+      "year": 2024,
+      "link": "https://doi.org/10.1109/IROS.2024.12345"
+    }
+  ],
+  "research_interests": [
+    "Deep Reinforcement Learning",
+    "Autonomous Robotics",
+    "Computer Vision in Healthcare"
+  ],
+  "target_countries": ["US", "CA"],
+  "target_intake": "Fall 2027",
+  "intro_call_summary": "The candidate has a solid engineering background and is passionate about robot learning, control systems, and computer vision. They are aiming for highly active labs in the United States and Canada. They prefer PIs who are actively publishing in IROS, ICRA, NeurIPS, or CVPR, and who have strong funding (grants) in autonomous vehicles or robot vision.",
+  "raw_resume_text": "Nageswara Rao | B.Tech CSE at IIT Madras | CGPA: 9.1/10.0 | Publications: IROS 2024 paper on Quadrotor Control | Research Intern at Robotics Lab, IIT Madras | Skills: PyTorch, ROS, Reinforcement Learning, OpenCV"
+}
