@@ -32,7 +32,7 @@ class FilterEngine:
 
     def verify_no_domain_leakage(self, student_profile: Dict[str, Any], pi: Dict[str, Any]) -> Tuple[bool, str]:
         """
-        Uses GPT-4.1 to verify that the candidate's publications actually align with the student's domain
+        Uses deepseek.v3.1 to verify that the candidate's publications actually align with the student's domain
         and do not suffer from wrong-domain leakage due to keyword overlap.
         Includes a retry mechanism for handling rate limits (429).
         """
